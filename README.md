@@ -50,6 +50,8 @@ Push yourself to use shortcuts to improve productivity. [Here](https://medium.co
 
 `brew cask install cheatsheet`
 
+Then hold down ⌘ for a bit, boom! shortcuts.
+
 ### Windows
 
 #### Keyboard Shortcuts
