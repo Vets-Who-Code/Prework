@@ -15,7 +15,7 @@ You should have a professional presence on all of the below platforms, as well a
 
 ### Getting Comfy in the Shell
 
-If you're on Windows look [here](Windows-Tooling.md). If you're on MacOS look [here](MacOs-Tooling.md).
+If you're on Windows look [here](https://github.com/Vets-Who-Code/prework/blob/master/Windows-Tooling.md). If you're on MacOS look [here](https://github.com/Vets-Who-Code/prework/blob/master/MacOS-Tooling.md).
 
 Next up, learning what the heck the command line is. Dig in! You'll never be the same again.
 
