@@ -1,48 +1,63 @@
 # Prework
 
-Welcome to prework. This will help you prepare for VWC cohort.
+Welcome to prework. This will help you prepare for VWC cohort. There is a lot of content to consume here, get used to the firehose! 👨🏻‍🚒
 
 ## Know Your Tool
 
-### MacOs
+### Getting Comfy in the Shell
 
-This is the most popular OS for web developers, if you have it that's great. There's a lot of good tooling out there.
+#### If you're on MacOs follow this:
 
-#### Command Line
+[Install Homebrew](https://brew.sh/)
 
-The command line is your new home. Learn to love it.
+Homebrew is a [package manager](https://medium.freecodecamp.org/javascript-package-managers-101-9afd926add0a) that's going to make it simple to install and manage applications.
 
-1. [Install Homebrew](https://brew.sh/)
 
-    Homebrew is a [package manager](https://medium.freecodecamp.org/javascript-package-managers-101-9afd926add0a) that's going to make it simple to install and manage applications.
+Run the following line in Terminal.app and then never use Terminal again.
 
-2. Install iTerm
+`brew cask install iterm2`
 
-    Run the following line in Terminal.app and then never use Terminal again.
+Now you can open iTerm2.app.
 
-    `brew cask install iterm2`
+#### If you're on Windows look here:
 
-    Now you can open iTerm2.app.
+First, lets install `Chocolatey`, a [package manager]() for Windows. Go ahead and follow the instructions [here](https://chocolatey.org/install).
 
-3. Primer for Command Line
+Next, we need a terminal that's a little bit better than what's included in Windows by default.
 
-    [Beginner](http://jonibologna.com/command-line-primer-primer/)
+Run this in `PowerShell.exe`:
 
-    [Advanced](https://developer.apple.com/library/content/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
+`choco install cmder`
+
+To make `cmder` more powerful [install](https://docs.microsoft.com/en-us/windows/wsl/install-win10) the Windows Subsystem for Linux, aka WSL. Choose Ubuntu as your distribution.
+
+#### Primer for Command Line
+
+
+
+[Beginner](http://jonibologna.com/command-line-primer-primer/)
+
+[Advanced](https://developer.apple.com/library/content/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
 
 #### Git
 
 Git is used to track who changed what on files, as well as many other things. It's going to be one of your top tools, so dig into the [documentation](https://git-scm.com/doc), as well as the links below.
 
-1. [Install Git](https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-mac-md)
+**First, lets get git installed:**
 
+On Mac:
     `brew install git`
 
-2. [Tutorial](https://try.github.io/levels/1/challenges/1)
+On Windows:
+    `choco install git.install`
 
-3. [More](https://guides.github.com/)
+**Next, read through these tutorials and guides!**
 
-4. [Even More](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+[Tutorial](https://try.github.io/levels/1/challenges/1)
+
+[Guides](https://guides.github.com/) (don't worry too much about reading all of these. Wet your pallette and bookmark for later)
+
+[Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 #### Keyboard Shortcuts
 
@@ -52,39 +67,32 @@ Push yourself to use shortcuts to improve productivity. [Here](https://medium.co
 
 Then hold down ⌘ for a bit, boom! shortcuts.
 
-### Windows
+For Windows, check out this Reddit [thread](https://www.reddit.com/r/AskReddit/comments/633ok7/what_are_some_useful_keyboard_shortcuts_that/).
 
-#### Keyboard Shortcuts
+## How the Internet Works & Other Reading
 
-#### Command Line
+[How Does the Internet work??](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
-#### Git
+[How the Internet Works Video](https://www.youtube.com/watch?v=7_LPdttKXPc)
 
-### Linux
-
-
-## How the Internet Works
-
-### Link 1
-
-### Link 2 
+[What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 ## HTML & CSS
 
-### Link 1 
+[MDN: Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 
-### Link 2
+[MDN: Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 
-### Link 3
+[CSS Grid](https://cssgrid.io/)
 
 ## Javascript
 
-### Link 1
+[MDN: Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
-### Link 2
+[Eloquent JS](http://eloquentjavascript.net/)
 
-### Link 3
+[Build Something: JS30](https://javascript30.com/)
 
 # Capstone
 
-Build website telling us your story.
+Build a website telling us your story and then push it to GitHub. Bonus points if you use [GitHub Pages](https://pages.github.com/) to host your site.
