@@ -13,3 +13,5 @@ To make `cmder` more powerful [install](https://docs.microsoft.com/en-us/windows
 Now lets install the best code editor ever made - Visual Studio Code.
 
 `choco install visualstudiocode`
+
+Now I'm sure you want to make your code editor more comfy, so checkout these two podcast episodes [here](https://syntax.fm/show/012/why-is-everyone-switching-to-vs-code) and [here](https://syntax.fm/show/048/vs-code-round-two) for the best tips and extensions out there. The podcast is great, but you can just read the show notes.
