@@ -6,10 +6,10 @@ Welcome to prework. This will help you prepare for VWC cohort. There is a lot of
 
 You should have a professional presence on all of the below platforms, as well as a professional email account. A [personal brand](https://medium.freecodecamp.org/building-your-personal-brand-as-a-new-web-developer-f6d4150fd217) is really important.
 
-* Twitter
-* Codepen
-* GitHub
-* Medium
+* [Twitter](https://twitter.com)
+* [Codepen](https://codepen.io)
+* [GitHub](https://github.com)
+* [Medium](https://medium.com)
 
 ## Know Your Tool
 
