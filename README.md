@@ -41,16 +41,6 @@ On Windows:
 
 [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
-### Keyboard Shortcuts
-
-Push yourself to use shortcuts to improve productivity. [Here](https://medium.com/productivity-freak/macos-keyboard-shortcuts-41c8184f65a6) are some good shortcuts, but you'll also want to install CheatSheet.App so that you can see all the shortcuts every app you use has to offer.
-
-`brew cask install cheatsheet`
-
-Then hold down ⌘ for a bit, boom! shortcuts.
-
-For Windows, check out this Reddit [thread](https://www.reddit.com/r/AskReddit/comments/633ok7/what_are_some_useful_keyboard_shortcuts_that/).
-
 ## How the Internet Works & Other Reading
 
 [How Does the Internet work??](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
