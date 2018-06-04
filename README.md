@@ -1,4 +1,6 @@
-# Prework
+<img src="/img/vwc.gif" alt="Vets Who Code" style="width: 50%;"/>
+
+# [Prework](https://vetswhocode.io)
 
 Welcome to prework. This will help you prepare for VWC cohort. There is a lot of content to consume here, get used to the firehose! 👨🏻‍🚒
 
