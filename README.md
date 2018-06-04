@@ -2,7 +2,7 @@
 
 # [Prework](https://vetswhocode.io)
 
-Welcome to prework. This will help you prepare for VWC cohort. There is a lot of content to consume here, get used to the firehose! 👨🏻‍🚒
+Welcome to prework. This will help you prepare for VWC cohort. There is a lot of content to consume here, get used to the fire hose! 👨🏻‍🚒
 
 ## Social Media
 
@@ -15,15 +15,11 @@ You should have a professional presence on all of the below platforms, as well a
 
 ## Know Your Tool
 
-### Getting Comfy in the Shell
-
 If you're on Windows look [here](https://github.com/Vets-Who-Code/prework/blob/master/Windows-Tooling.md). If you're on MacOS look [here](https://github.com/Vets-Who-Code/prework/blob/master/MacOS-Tooling.md).
 
-Next up, learning what the heck the command line is. Dig in! You'll never be the same again.
+### Getting Comfy in the Shell
 
-[Beginner](http://jonibologna.com/command-line-primer-primer/)
-
-[Advanced](https://developer.apple.com/library/content/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
+Next up, learning what the heck the command line is. Dig in! You wont be the same after you learn how command the terminal. Work through this tutorial [here](https://tutorial.djangogirls.org/en/intro_to_command_line/)!
 
 ### Git
 
