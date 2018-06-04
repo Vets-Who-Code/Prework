@@ -17,7 +17,7 @@ You should have a professional presence on all of the below platforms, as well a
 
 If you're on Windows look [here](https://github.com/Vets-Who-Code/prework/blob/master/Windows-Tooling.md). If you're on MacOS look [here](https://github.com/Vets-Who-Code/prework/blob/master/MacOS-Tooling.md).
 
-### Getting Comfy in the Shell
+### Command Line Interface
 
 Next up, learning what the heck the command line is. Dig in! You wont be the same after you learn how command the terminal. Work through this tutorial [here](https://tutorial.djangogirls.org/en/intro_to_command_line/)!
 
