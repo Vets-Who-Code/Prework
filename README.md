@@ -15,7 +15,7 @@ You should have a professional presence on all of the below platforms, as well a
 
 ## Know Your Tool
 
-If you're on Windows look [here](https://github.com/Vets-Who-Code/prework/blob/master/Windows-Tooling.md). If you're on MacOS look [here](https://github.com/Vets-Who-Code/prework/blob/master/MacOS-Tooling.md).
+Being able to code well requires you to be able to use your machine well. We're going to start with setting up you're machine and then move into learning a few tools that are staples to web development. If you're on Windows look [here](https://github.com/Vets-Who-Code/prework/blob/master/Windows-Tooling.md). If you're on MacOS look [here](https://github.com/Vets-Who-Code/prework/blob/master/MacOS-Tooling.md).
 
 ### Command Line Interface
 
