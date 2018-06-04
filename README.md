@@ -2,7 +2,7 @@
 
 # [Prework](https://vetswhocode.io)
 
-Welcome to prework. This will help you prepare for VWC cohort. There is a lot of content to consume here, get used to the fire hose! 👨🏻‍🚒
+Welcome to prework. Here you'll find the topics that will be covered during the interview process for admission into the cohort. We don't expect you to be experts, but we do expect you to be **familiar**. There is a lot of content to consume here, get used to the fire hose! 👨🏻‍🚒
 
 ## Social Media
 
