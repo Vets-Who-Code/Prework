@@ -47,23 +47,20 @@ On Windows:
 
 [How Does the Internet work??](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
-[How the Internet Works Video](https://www.youtube.com/watch?v=7_LPdttKXPc)
-
 [What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 ## HTML & CSS
 
-[MDN: Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+Below is a tutorial covering what web development is, what web development is comprised of, as well as how it all comes together to create
+web applications. The tutorial mentions installing Atom, don't worry about that. You're going to use Vscode instead. 😉
 
-[MDN: Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
+[link](https://internetingishard.com/html-and-css/)
+
+Getting a good grasp of how to layout websites is really important. The course below is going to get you moving on just that with some cool new additions to CSS.
 
 [CSS Grid](https://cssgrid.io/)
 
 ## Javascript
-
-[MDN: Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-
-[Eloquent JS](http://eloquentjavascript.net/)
 
 [Build Something: JS30](https://javascript30.com/)
 
