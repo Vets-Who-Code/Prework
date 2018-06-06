@@ -13,6 +13,8 @@ You should have a professional presence on all of the below platforms, as well a
 * [GitHub](https://github.com)
 * [Medium](https://medium.com)
 
+Another important aspect of communicating your brand on the Internet as a developer is being able to use Markdown formatting. Markdown is a way to write plain text documents that get formatted into html for display on the web. This guide you're currently reading is written in Markdown. Markdown is extremely popular in 2018 and as part of the prework, you're going to take some time to understand it. Work through [this](https://www.markdowntutorial.com/).
+
 ## Know Your Tool
 
 Being able to code well requires you to be able to use your machine well. We're going to start with setting up your machine and then move into learning a few tools that are staples to web development. If you're on Windows look [here](https://github.com/Vets-Who-Code/prework/blob/master/Windows-Tooling.md). If you're on MacOS look [here](https://github.com/Vets-Who-Code/prework/blob/master/MacOS-Tooling.md).
