@@ -1,6 +1,12 @@
 <img src="/img/vwc.gif" alt="Vets Who Code" style="width: 50%;"/>
+<center>
+<h1 style="color:#d3011b"> VETS WHO CODE</h1>
 
-# [Prework](https://vetswhocode.io)
+[Prework](https://vetswhocode.io)
+
+---
+
+</center>
 
 Welcome to prework. Here you'll find the topics that will be covered during the interview process for admission into the cohort. We don't expect you to be experts, but we do expect you to be **familiar**. There is a lot of content to consume here, get used to the fire hose! 👨🏻‍🚒
 
