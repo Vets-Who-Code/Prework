@@ -13,7 +13,8 @@ You should have a professional presence on all of the below platforms, as well a
 * [GitHub](https://github.com)
 * [Medium](https://medium.com)
 
-Another important aspect of communicating your brand on the Internet as a developer is being able to use Markdown formatting. Markdown is a way to write plain text documents that get formatted into html for display on the web. This guide you're currently reading is written in Markdown. Markdown is extremely popular in 2018 and as part of the prework, you're going to take some time to understand it. Work through [this](https://www.markdowntutorial.com/).
+Another important aspect of communicating your brand on the Internet as a developer is being able to use Markdown formatting. Markdown is a way to write plain text documents that get formatted into html for display on the web. This guide you're currently reading is written in Markdown. Markdown is extremely popular in 2018 and as part of the prework, you're going to take some time to understand it. [Markdown Tutorial](https://www.markdowntutorial.com/).
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Know Your Tool
 
