@@ -25,7 +25,7 @@ Next up, learning what the heck the command line is. Dig in! You wont be the sam
 
 ### Git
 
-Git is used to track who changed what on files, as well as many other things. It's going to be one of your top tools, so dig into the [documentation](https://git-scm.com/doc), as well as the links below.
+Git is used to track who changed what on files, as well as many other things. It's going to be one of your top tools, so dig into the [documentation](https://git-scm.com/doc), as well as the links below. Note you should hi
 
 **First, lets get git installed:**
 
@@ -62,7 +62,11 @@ Getting a good grasp of how to layout websites is really important. The course b
 
 ## Javascript
 
-[Build Something: JS30](https://javascript30.com/)
+JavScript is where you go from being an artist to being a wizard in web development. A deep knowledge of JavaScript fundamentals will make you a highly employable developer. Here are two tutorials to get you started, pick whichever one grabs your attention -- [JavaScript for Cats](http://jsforcats.com/) or [Learn JavaScript](https://gitbookio.gitbooks.io/javascript/content/). If you're feeling extra motivated (you should feel extra motivated), do the [JavaScript 30](https://javascript30.com/) course by Wes Bos and see web development in action.
+
+### Even more resources!
+
+[Awesome JavaScript](https://github.com/micromata/awesome-javascript-learning)
 
 # Capstone
 
