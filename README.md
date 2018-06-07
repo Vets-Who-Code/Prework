@@ -45,7 +45,7 @@ These two articles will help you see the context of what we do as web developers
 Below is a tutorial covering what web development is, what web development is comprised of, as well as how it all comes together to create
 web applications. The tutorial mentions installing Atom, don't worry about that. You're going to use Vscode instead. 😉
 
-[link](https://internetingishard.com/html-and-css/)
+[HTML & CSS Tutorial](https://internetingishard.com/html-and-css/)
 
 Getting a good grasp of how to layout websites is really important. The course below is going to get you moving on just that with some cool new additions to CSS.
 
