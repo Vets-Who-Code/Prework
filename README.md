@@ -17,33 +17,23 @@ Another important aspect of communicating your brand on the Internet as a develo
 
 ## Know Your Tool
 
-Being able to code well requires you to be able to use your machine well. We're going to start with setting up your machine and then move into learning a few tools that are staples to web development. If you're on Windows look [here](https://github.com/Vets-Who-Code/prework/blob/master/Windows-Tooling.md). If you're on MacOS look [here](https://github.com/Vets-Who-Code/prework/blob/master/MacOS-Tooling.md).
+Being able to code well requires you to be able to use your machine well. We're going to start with setting up your machine and then move into learning a few tools that are staples to web development. If you're on Windows your setup instructions are [here](https://github.com/Vets-Who-Code/prework/blob/master/Windows-Tooling.md), MacOS users look [here](https://github.com/Vets-Who-Code/prework/blob/master/MacOS-Tooling.md).
 
 ### Command Line Interface
 
-Next up, learning what the heck the command line is. Dig in! You wont be the same after you learn how command the terminal. Work through this tutorial [here](https://tutorial.djangogirls.org/en/intro_to_command_line/)!
+Next up, learning what the heck the command line is. Dig in! You wont be the same after you learn how command the terminal. Work through this tutorial [here](https://tutorial.djangogirls.org/en/intro_to_command_line/)! Here's a [great tool](https://explainshell.com/) to decode some of those spell like chunks of texts you've been blindly copy pasting into your terminal. 🔮
 
 ### Git
 
-Git is used to track who changed what on files, as well as many other things. It's going to be one of your top tools, so dig into the [documentation](https://git-scm.com/doc), as well as the links below. Note you should hi
+Git is used to track who changed what on files, as well as many other things. It's going to be one of your top tools, so bookmark the [documentation](https://git-scm.com/doc). Next, if you're on Mac run `brew install git`, else if you're on Windows run `choco install git.install`. Now, work through [this](https://try.github.io/levels/1/challenges/1) hands on tutorial, don't worry it's really quick. Now take a look at [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), it may seem a little advanced, but this is how we use git within Vets Who Code. The reason is because that's how the real world works with Git.
 
-**First, lets get git installed:**
-
-On Mac:
-    `brew install git`
-
-On Windows:
-    `choco install git.install`
-
-**Next, read through these tutorials and guides!**
-
-[Tutorial](https://try.github.io/levels/1/challenges/1)
+#### Additional Git Resources
 
 [Guides](https://guides.github.com/) (don't worry too much about reading all of these. Wet your pallette and bookmark for later)
 
-[Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
-
 ## How the Internet Works & Other Reading
+
+These two articles will help you see the context of what we do as web developers. First, by understanding the infrastructure that delivers web applications and web sites. Then, by understanding how the various layers of software involved in computing today abstract complexities behind code.
 
 [How Does the Internet work??](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
