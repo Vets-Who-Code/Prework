@@ -1,6 +1,6 @@
 <img src="/img/vwc.gif" alt="Vets Who Code" style="width: 50%;"/>
 
-<h1 style="color:#d3011b; text-align:center"> VETS WHO CODE</h1>
+<h1 align="center" style="color:#d3011b"> VETS WHO CODE</h1>
 
 [Prework](https://vetswhocode.io)
 
