@@ -10,6 +10,8 @@
 
 Welcome to prework. Here you'll find the topics that will be covered during the interview process for admission into the cohort. We don't expect you to be experts, but we do expect you to be **familiar**. There is a lot of content to consume here, get used to the fire hose! 👨🏻‍🚒
 
+We know that everyone learns better using various methods and styles which is why we included both videos and read-throughs. Knowing the best way you pick-up and learn will be one of your greatest assets as a developer!
+
 <h2 id="social-media">Social Media</h2>
 
 You should have a professional presence on all of the below platforms, as well as a professional email account. A [personal brand](http://blog.thefirehoseproject.com/posts/personal-branding-software-developer/) is really important.
@@ -34,6 +36,8 @@ Next up, learning what the heck the command line is. Dig in! You wont be the sam
 
 Git is used to track who changed what on files, as well as many other things. It's going to be one of your top tools, so bookmark the [documentation](https://git-scm.com/doc). Next, if you're on Mac run `brew install git`, else if you're on Windows run `choco install git.install`. Now, work through [this](https://try.github.io/levels/1/challenges/1) hands on tutorial, don't worry it's really quick. Now take a look at [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), it may seem a little advanced, but this is how we use git within Vets Who Code. The reason is because that's how the real world works with Git.
 
+[Git Tutorial (VIDEO)](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+
 #### Additional Git Resources
 
 [Guides](https://guides.github.com/) (don't worry too much about reading all of these. Wet your pallette and bookmark for later)
@@ -51,11 +55,15 @@ These two articles will help you see the context of what we do as web developers
 Below is a tutorial covering what web development is, what web development is comprised of, as well as how it all comes together to create
 web applications. The tutorial mentions installing Atom, don't worry about that. You're going to use Vscode instead. 😉
 
-[HTML & CSS Tutorial](https://internetingishard.com/html-and-css/)
+[HTML & CSS Tutorial (READ)](https://internetingishard.com/html-and-css/)
+
+[CSS Tutorial (VIDEO)](https://www.youtube.com/watch?v=yfoY53QXEnI)
 
 Getting a good grasp of how to layout websites is really important. The course below is going to get you moving on just that with some cool new additions to CSS.
 
-[CSS Grid](https://cssgrid.io/)
+[CSS Grid(READ)](https://cssgrid.io/)
+
+[CSS Grid(VIDEO)](https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
 
 <h2 id="javascript">JavaScript</h2>
 
