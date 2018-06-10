@@ -57,6 +57,8 @@ web applications. The tutorial mentions installing Atom, don't worry about that.
 
 [HTML & CSS Tutorial (READ)](https://internetingishard.com/html-and-css/)
 
+[HTML Tutorial (VIDEO)](https://www.youtube.com/watch?v=UB1O30fR-EE&t=1931s)
+
 [CSS Tutorial (VIDEO)](https://www.youtube.com/watch?v=yfoY53QXEnI)
 
 Getting a good grasp of how to layout websites is really important. The course below is going to get you moving on just that with some cool new additions to CSS.
