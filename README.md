@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style="color:#d3011b"><img src="/img/vwc.gif" alt="Vets Who Code" width="100px" style=""/> VETS WHO CODE</h1>
+<h1 align="center"><img src="/img/vwc.gif" alt="Vets Who Code" width="100px" style=""/> VETS WHO CODE</h1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Social Media](#social-media)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Command Line](#command-line)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[How Internet Works](#internet)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[HTML & CSS](#html)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[JavaScript](#javascript)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Capstone](#capstone)
 
@@ -74,8 +74,9 @@ JavScript is where you go from being an artist to being a wizard in web developm
 ### Even more resources!
 
 [Awesome JavaScript](https://github.com/micromata/awesome-javascript-learning)
+
 [FrontEnd Masters Handbook](https://github.com/FrontendMasters/front-end-handbook-2018)
 
 <h2 id="capstone">Capstone</h2>
 
-Build a website telling us your story and then push it to GitHub. Bonus points if you use [GitHub Pages](https://pages.github.com/) or [surge](https://surge.sh/) to host your site.
+Build a website telling us your story and then push it to GitHub. Bonus points if you use [GitHub Pages](https://pages.github.com/) or [surge.sh](https://surge.sh/) to host your site.
