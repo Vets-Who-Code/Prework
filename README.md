@@ -1,11 +1,10 @@
-<a href="https://vetswhocode.io">
 <h1 align="center"><img src="/img/vwc.gif" alt="Vets Who Code" width="100px" style=""/> VETS WHO CODE</h1>
-</a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Web Presence](#web-presence)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Command Line](#command-line)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[How Internet Works](#internet)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[HTML & CSS](#html)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[JavaScript](#javascript)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Capstone](#capstone)
 
 ---
 
-## Prework
+## [Prework](https://vetswhocode.io)
 
 Welcome to prework. Here you'll find the topics that will be covered during the interview process for admission into the cohort. We don't expect you to be experts, but we do expect you to be **familiar**. There is a lot of content to consume here, get used to the fire hose! 👨🏻‍🚒
 
