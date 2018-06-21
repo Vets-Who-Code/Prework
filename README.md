@@ -46,6 +46,8 @@ Git is used to track who changed what on files, as well as many other things. It
 
 ### Dev Tools
 
+[Download Chrome](https://www.google.com/intl/en_ca/chrome/) (This is our browser we prefer for our dev environment.)
+
 Devtools in your browser environment (such as Chrome) will be your best friend and best resource to see what is going on behind the scenes. If you ever have a project open in the browser and the inspector/dev tools are not open "YOU ARE WRONG"! Lets get familiar with this tool in this tutorial!
 
 [Dev Tools Tutorial (READ)](https://developers.google.com/web/tools/chrome-devtools/)  
