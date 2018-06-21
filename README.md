@@ -40,16 +40,16 @@ Git is used to track who changed what on files, as well as many other things. It
 
 [Guides](https://guides.github.com/) (don't worry too much about reading all of these. Wet your pallette and bookmark for later)
 
+#### Additional Git Resources
+
+[Guides](https://guides.github.com/) (don't worry too much about reading all of these. Wet your pallette and bookmark for later)
+
 ### Dev Tools
 
 Devtools in your browser environment (such as Chrome) will be your best friend and best resource to see what is going on behind the scenes. If you ever have a project open in the browser and the inspector/dev tools are not open "YOU ARE WRONG"! Lets get familiar with this tool in this tutorial!
 
 [Dev Tools Tutorial (READ)](https://developers.google.com/web/tools/chrome-devtools/)  
 [Dev Tools Tutorial (VIDEO)](https://www.youtube.com/watch?v=x4q86IjJFag)
-
-#### Additional Git Resources
-
-[Guides](https://guides.github.com/) (don't worry too much about reading all of these. Wet your pallette and bookmark for later)
 
 <h2 id="internet">How Does the Internet Work</h2>
 
