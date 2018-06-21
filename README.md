@@ -1,4 +1,4 @@
-<h1 style="color:blue"align="center"><img src="/img/vwc.gif" alt="Vets Who Code" width="100px" style=""/> VETS WHO CODE</h1>
+<h1 align="center"><img src="/img/vwc.gif" alt="Vets Who Code" width="100px" /> VETS WHO CODE</h1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Web Presence](#web-presence)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Command Line](#command-line)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[How Internet Works](#internet)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[HTML & CSS](#html)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[JavaScript](#javascript)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Capstone](#capstone)
 
