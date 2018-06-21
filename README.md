@@ -1,6 +1,6 @@
 <h1 align="center"><img src="/img/vwc.gif" alt="Vets Who Code" width="100px" style=""/> VETS WHO CODE</h1>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Social Media](#social-media)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Command Line](#command-line)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[How Internet Works](#internet)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[HTML & CSS](#html)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[JavaScript](#javascript)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Capstone](#capstone)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Web Presence](#web-presence)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Command Line](#command-line)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[How Internet Works](#internet)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[HTML & CSS](#html)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[JavaScript](#javascript)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Capstone](#capstone)
 
 ---
 
@@ -10,14 +10,14 @@ Welcome to prework. Here you'll find the topics that will be covered during the 
 
 We know that everyone learns better using various methods and styles which is why we included both videos and read-throughs. Knowing the best way you pick-up and learn will be one of your greatest assets as a developer!
 
-<h2 id="social-media">Social Media</h2>
+<h2 id="web-presence">Web Presence</h2>
 
 You should have a professional presence on all of the below platforms, as well as a professional email account. A [personal brand](http://blog.thefirehoseproject.com/posts/personal-branding-software-developer/) is really important.
 
-* [Twitter](https://twitter.com)
-* [Codepen](https://codepen.io)
-* [GitHub](https://github.com)
-* [Medium](https://medium.com)
+- [Twitter](https://twitter.com)
+- [Codepen](https://codepen.io)
+- [GitHub](https://github.com)
+- [Medium](https://medium.com)
 
 Another important aspect of communicating your brand on the Internet as a developer is being able to use Markdown formatting. Markdown is a way to write plain text documents that get formatted into html for display on the web. This guide you're currently reading is written in Markdown. Markdown is extremely popular in 2018 and as part of the prework, you're going to take some time to understand it. <br />[Markdown Tutorial](https://www.markdowntutorial.com/)  
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -35,6 +35,17 @@ Next up, learning what the heck the command line is. Dig in! You wont be the sam
 Git is used to track who changed what on files, as well as many other things. It's going to be one of your top tools, so bookmark the [documentation](https://git-scm.com/doc). Next, if you're on Mac run `brew install git`, else if you're on Windows run `choco install git.install`. Now, work through [this](https://try.github.io/levels/1/challenges/1) hands on tutorial, don't worry it's really quick. Now take a look at [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), it may seem a little advanced, but this is how we use git within Vets Who Code. The reason is because that's how the real world works with Git.
 
 [Git Tutorial (VIDEO)](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+
+#### Additional Git Resources
+
+[Guides](https://guides.github.com/) (don't worry too much about reading all of these. Wet your pallette and bookmark for later)
+
+### Dev Tools
+
+Devtools in your browser environment (such as Chrome) will be your best friend and best resource to see what is going on behind the scenes. If you ever have a project open in the browser and the inspector/dev tools are not open "YOU ARE WRONG"! Lets get familiar with this tool in this tutorial!
+
+[Dev Tools Tutorial (READ)](https://developers.google.com/web/tools/chrome-devtools/)  
+[Dev Tools Tutorial (VIDEO)](https://www.youtube.com/watch?v=x4q86IjJFag)
 
 #### Additional Git Resources
 
