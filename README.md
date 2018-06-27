@@ -27,6 +27,10 @@ Another important aspect of communicating your brand on the Internet as a develo
 
 Being able to code well requires you to be able to use your machine well. We're going to start with setting up your machine and then move into learning a few tools that are staples to web development. If you're on Windows your setup instructions are [here](https://github.com/Vets-Who-Code/prework/blob/master/Windows-Tooling.md), MacOS users look [here](https://github.com/Vets-Who-Code/prework/blob/master/MacOS-Tooling.md).
 
+### Code Editor
+
+There are many options when it comes to which editor to choose and we (and many others in our industry) prefer VS Code due to it's efficiencies and ability to customize. Download it [here](https://code.visualstudio.com/download) and play around with it to become familiar since you will spend many hours in this environment!
+
 ### Command Line Interface
 
 Next up, learning what the heck the command line is. Dig in! You wont be the same after you learn how command the terminal. Work through this tutorial [here](https://tutorial.djangogirls.org/en/intro_to_command_line/)! Here's a [great tool](https://explainshell.com/) to decode some of those spell like chunks of texts you've been blindly copy pasting into your terminal. 🔮
