@@ -25,3 +25,18 @@ Push yourself to use shortcuts to improve productivity. [Here](https://medium.co
 `brew cask install cheatsheet`
 
 Then hold down ⌘ for a bit, boom! shortcuts.
+
+## Advanced
+
+For those who are more familiar with code stacks, here is a great article on setting up your mac for things like:
+* Xcode
+* SSH keys
+* Node.js
+* Ruby's RVM
+* Python
+* PostgresSQL 
+* and more!
+
+Check it out [here](http://www.stuartellis.name/articles/mac-setup/)
+
+Good luck Mac users!

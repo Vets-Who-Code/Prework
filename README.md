@@ -93,6 +93,9 @@ JavScript is where you go from being an artist to being a wizard in web developm
 
 [FrontEnd Masters Handbook](https://github.com/FrontendMasters/front-end-handbook-2018)
 
+Free Code Camp is an an awesome community of upstart coders. It has a great curriculum with short lectures and easy to overcome challenges.
+[FreeCodeCamp](https://www.freecodecamp.org/) and the [FreeCodeCamp Curriculum](https://learn.freecodecamp.org/)
+
 <h2 id="capstone">Capstone</h2>
 
 Build a website telling us your story and then push it to GitHub. Bonus points if you use [GitHub Pages](https://pages.github.com/) or [surge.sh](https://surge.sh/) to host your site.
