@@ -37,6 +37,6 @@ For those who are more familiar with code stacks, here is a great article on set
 * PostgresSQL 
 * and more!
 
-Check it out [here](http://www.stuartellis.name/articles/mac-setup/)
+[Check it out here](http://www.stuartellis.name/articles/mac-setup/)
 
 Good luck Mac users!
