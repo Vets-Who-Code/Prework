@@ -87,7 +87,13 @@ Getting a good grasp of how to layout websites is really important. The course b
 
 JavScript is where you go from being an artist to being a wizard in web development. A deep knowledge of JavaScript fundamentals will make you a highly employable developer. Here are two tutorials to get you started, pick whichever one grabs your attention -- [JavaScript for Cats](http://jsforcats.com/) or [Learn JavaScript](https://gitbookio.gitbooks.io/javascript/content/). If you're feeling extra motivated (you should feel extra motivated), do the [JavaScript 30](https://javascript30.com/) course by Wes Bos and see web development in action.
 
+JavaScript is derived from ECMAScript. This is important since new versions come out having major impact on JavaScript. Read through this resource to understand the newewst version of ECMAScript:
+
+[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
+
 ### Even more resources!
+
+[Eloquent JavaScript](https://eloquentjavascript.net/)
 
 [Awesome JavaScript](https://github.com/micromata/awesome-javascript-learning)
 
