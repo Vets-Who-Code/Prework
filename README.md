@@ -102,3 +102,5 @@ JavaScript is derived from ECMAScript. This is important since new versions come
 <h2 id="capstone">Capstone</h2>
 
 Build a website telling us your story and then push it to GitHub. Bonus points if you use [GitHub Pages](https://pages.github.com/) or [surge.sh](https://surge.sh/) to host your site.
+
+NOTE: DO NOT USE A TEMPLATE OR THEME. USE ONLY YOUR OWN HTML, CSS AND JAVASCRIPT.
