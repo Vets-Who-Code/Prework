@@ -6,7 +6,7 @@
 
 ## [Prework](https://vetswhocode.io)
 
-Welcome to prework. Here you'll find the topics that will be covered during the interview process for admission into the cohort. We don't expect you to be experts, but we do expect you to be **familiar**. There is a lot of content to consume here, get used to the fire hose! 👨🏻‍🚒
+Welcome to the official Vets Who Code Prework. Here you'll find resources and tutorials on the topics that will be covered during the interview process to be eligible for admission into a cohort. This can also be used as a great refresher for grads and newbies interested alike.. While, we don't expect you to be experts, but we do expect you to be **familiar**. There is a lot of content to consume here, get used to the fire hose! 👨🏻‍🚒
 
 We know that everyone learns better using various methods and styles which is why we included both videos and read-throughs. Knowing the best way you pick-up and learn will be one of your greatest assets as a developer!
 
@@ -77,9 +77,11 @@ web applications. The tutorial mentions installing Atom, don't worry about that.
 
 [CSS Tutorial (VIDEO)](https://www.youtube.com/watch?v=yfoY53QXEnI)
 
-Getting a good grasp of how to layout websites is really important. The course below is going to get you moving on just that with some cool new additions to CSS.
+Getting a good grasp of how to layout websites is VERY important. The course below is going to get you moving on just that with some cool new additions to CSS.
 
 [CSS Grid(READ)](https://cssgrid.io/)
+
+[Learn Layout (READ)](http://learnlayout.com/)
 
 [CSS Grid(VIDEO)](https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
 
@@ -90,6 +92,8 @@ JavScript is where you go from being an artist to being a wizard in web developm
 JavaScript is derived from ECMAScript. This is important since new versions come out having major impact on JavaScript. Read through this resource to understand the newewst version of ECMAScript:
 
 [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
+
+[Javascript Inf0(Read-very intensive)](http://javascript.info/)
 
 ### Even more resources!
 
@@ -103,4 +107,4 @@ JavaScript is derived from ECMAScript. This is important since new versions come
 
 Build a website telling us your story and then push it to GitHub. Bonus points if you use [GitHub Pages](https://pages.github.com/) or [surge.sh](https://surge.sh/) to host your site.
 
-NOTE: DO NOT USE A TEMPLATE OR THEME. USE ONLY YOUR OWN HTML, CSS AND JAVASCRIPT.
+NOTICE: DO NOT USE A TEMPLATE OR THEME IF USING THIS PREWORK TO APPLY FOR VETSWHCODE. USE ONLY YOUR OWN HTML, CSS AND JAVASCRIPT.
