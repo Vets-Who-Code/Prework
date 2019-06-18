@@ -1,14 +1,16 @@
 <h1 align="center"><img src="/img/vwc.gif" alt="Vets Who Code" width="100px" /> VETS WHO CODE</h1>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Web Presence](#web-presence)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Know Your Tool](#command-line)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[How Internet Works](#internet)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[HTML & CSS](#html)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[JavaScript](#javascript)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Capstone](#capstone)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Web Presence](#web-presence)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Know Your Tool](#command-line)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[HTML & CSS](#html)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[JavaScript](#javascript)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Capstone](#capstone)
 
 ---
 
 ## [Prework](https://vetswhocode.io)
 
-Welcome to the official Vets Who Code Prework. Here you'll find resources and tutorials on the topics that will be covered during the interview process to be eligible for admission into a cohort. This can also be used as a great refresher for grads and newbies interested alike.. While, we don't expect you to be experts, but we do expect you to be **familiar**. There is a lot of content to consume here, get used to the fire hose! 👨🏻‍🚒
-
-We know that everyone learns better using various methods and styles which is why we included both videos and read-throughs. Knowing the best way you pick-up and learn will be one of your greatest assets as a developer!
+Welcome to the official Vets Who Code Prework.
+Here you'll find mandatory tutorials that need to be completed to be considered for the program.
+This can also be used as a great refresher for grads and newbies interested alike.
+While, we don't expect you to be experts, but we do expect you to be **familiar**.
+There is a lot of content to consume here, get used to the fire hose! 👨🏻‍🚒
 
 <h2 id="web-presence">Web Presence</h2>
 
@@ -17,7 +19,7 @@ You should have a professional presence on all of the below platforms, as well a
 - [Twitter](https://twitter.com)
 - [Codepen](https://codepen.io)
 - [GitHub](https://github.com)
-- [Medium](https://medium.com)
+- [Dev.to](https://dev.to/)
 - [LinkedIn Veteran](https://linkedinforgood.linkedin.com/programs/veterans/premiumform)
 
 Another important aspect of communicating your brand on the Internet as a developer is being able to use Markdown formatting. Markdown is a way to write plain text documents that get formatted into html for display on the web. This guide you're currently reading is written in Markdown. Markdown is extremely popular in 2018 and as part of the prework, you're going to take some time to understand it. <br />[Markdown Tutorial](https://www.markdowntutorial.com/)  
@@ -29,7 +31,7 @@ Being able to code well requires you to be able to use your machine well. We're 
 
 ### Code Editor
 
-There are many options when it comes to which editor to choose and we (and many others in our industry) prefer VS Code due to it's efficiencies and ability to customize. Download it [here](https://code.visualstudio.com/download) and play around with it to become familiar since you will spend many hours in this environment!
+VS Code is our primary text editor and is **MANDATORY**. Download it [here](https://code.visualstudio.com/download) and play around with it to become familiar since you will spend many hours in this environment!
 
 ### Command Line Interface
 
@@ -39,72 +41,37 @@ Next up, learning what the heck the command line is. Dig in! You wont be the sam
 
 Git is used to track who changed what on files, as well as many other things. It's going to be one of your top tools, so bookmark the [documentation](https://git-scm.com/doc). Next, if you're on Mac run `brew install git`, else if you're on Windows run `choco install git.install`. Now, work through [this](https://try.github.io/levels/1/challenges/1) hands on tutorial, don't worry it's really quick. Now take a look at [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), it may seem a little advanced, but this is how we use git within Vets Who Code. The reason is because that's how the real world works with Git.
 
-[Git Tutorial (VIDEO)](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 
-#### Additional Git Resources
+[Github Tutorial](https://github.com/jlord/git-it-electron#what-to-install) (don't worry too much about reading all of these. Wet your pallette and bookmark for later)
 
-[Guides](https://guides.github.com/) (don't worry too much about reading all of these. Wet your pallette and bookmark for later)
-
-#### Additional Git Resources
-
-[Guides](https://guides.github.com/) (don't worry too much about reading all of these. Wet your pallette and bookmark for later)
-
-### Dev Tools
+### Browser
 
 [Download Chrome](https://www.google.com/intl/en_ca/chrome/) (This is our browser we prefer for our dev environment.)
 
-Devtools in your browser environment (such as Chrome) will be your best friend and best resource to see what is going on behind the scenes. If you ever have a project open in the browser and the inspector/dev tools are not open "YOU ARE WRONG"! Lets get familiar with this tool in this tutorial!
-
-[Dev Tools Tutorial (READ)](https://developers.google.com/web/tools/chrome-devtools/)  
-[Dev Tools Tutorial (VIDEO)](https://www.youtube.com/watch?v=x4q86IjJFag)
-
-<h2 id="internet">How Does the Internet Work</h2>
-
-These two articles will help you see the context of what we do as web developers. First, by understanding the infrastructure that delivers web applications and web sites. Then, by understanding how the various layers of software involved in computing today abstract complexities behind code.
-
-[How Does the Internet work??](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-
-[What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 <h2 id="html">HTML & CSS</h2>
 
 Below is a tutorial covering what web development is, what web development is comprised of, as well as how it all comes together to create
-web applications. The tutorial mentions installing Atom, don't worry about that. You're going to use Vscode instead. 😉
+web applications. The tutorial mentions installing Atom, don't worry about that. You're going to use VScode instead. 😉
 
 [HTML & CSS Tutorial (READ)](https://internetingishard.com/html-and-css/)
 
-[HTML Tutorial (VIDEO)](https://www.youtube.com/watch?v=UB1O30fR-EE&t=1931s)
-
-[CSS Tutorial (VIDEO)](https://www.youtube.com/watch?v=yfoY53QXEnI)
-
 Getting a good grasp of how to layout websites is VERY important. The course below is going to get you moving on just that with some cool new additions to CSS.
-
-[CSS Grid(READ)](https://cssgrid.io/)
-
-[Learn Layout (READ)](http://learnlayout.com/)
-
-[CSS Grid(VIDEO)](https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
 
 <h2 id="javascript">JavaScript</h2>
 
-JavScript is where you go from being an artist to being a wizard in web development. A deep knowledge of JavaScript fundamentals will make you a highly employable developer. Here are two tutorials to get you started, pick whichever one grabs your attention -- [JavaScript for Cats](http://jsforcats.com/) or [Learn JavaScript](https://gitbookio.gitbooks.io/javascript/content/). If you're feeling extra motivated (you should feel extra motivated), do the [JavaScript 30](https://javascript30.com/) course by Wes Bos and see web development in action.
+JavScript is where you go from being an artist to being a wizard in web development. A deep knowledge of JavaScript fundamentals will make you a highly employable developer. Complete Javascript Info to get a good beginner grasp of JS.
 
-JavaScript is derived from ECMAScript. This is important since new versions come out having major impact on JavaScript. Read through this resource to understand the newewst version of ECMAScript:
+JavaScript is derived from ECMAScript. This is important since new versions come out having major impact on JavaScript. Read through this resource to understand the newest version of ECMAScript:
 
-[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
 
-[Javascript Inf0(Read-very intensive)](http://javascript.info/)
 
-### Even more resources!
+[Javascript Info](http://javascript.info/)
 
-[Eloquent JavaScript](https://eloquentjavascript.net/)
 
-[Awesome JavaScript](https://github.com/micromata/awesome-javascript-learning)
-
-[FrontEnd Masters Handbook](https://github.com/FrontendMasters/front-end-handbook-2018)
 
 <h2 id="capstone">Capstone</h2>
 
-Build a website telling us your story and then push it to GitHub. Bonus points if you use [GitHub Pages](https://pages.github.com/) or [surge.sh](https://surge.sh/) to host your site.
+Build a website telling about you and include your favorite things and then push it to GitHub. Bonus points if you use [GitHub Pages](https://pages.github.com/) or [surge.sh](https://surge.sh/) to host your site.
 
-NOTICE: DO NOT USE A TEMPLATE OR THEME IF USING THIS PREWORK TO APPLY FOR VETSWHCODE. USE ONLY YOUR OWN HTML, CSS AND JAVASCRIPT.
+**NOTICE: DO NOT USE A TEMPLATE OR THEME IF USING THIS PREWORK TO APPLY FOR VETSWHOCODE. USE ONLY YOUR OWN HTML, CSS AND JAVASCRIPT.**
