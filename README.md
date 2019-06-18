@@ -31,7 +31,7 @@ Being able to code well requires you to be able to use your machine well. We're 
 
 ### Code Editor
 
-VS Code is our primary text editor and is **MANADATORY**. Download it [here](https://code.visualstudio.com/download) and play around with it to become familiar since you will spend many hours in this environment!
+VS Code is our primary text editor and is **MANDATORY**. Download it [here](https://code.visualstudio.com/download) and play around with it to become familiar since you will spend many hours in this environment!
 
 ### Command Line Interface
 
