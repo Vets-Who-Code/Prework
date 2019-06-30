@@ -54,13 +54,13 @@ Git is used to track who changed what on files, as well as many other things. It
 Below is a tutorial covering what web development is, what web development is comprised of, as well as how it all comes together to create
 web applications. The tutorial mentions installing Atom, don't worry about that. You're going to use VScode instead. 😉
 
-[HTML & CSS Tutorial (READ)](https://internetingishard.com/html-and-css/)
+[HTML & CSS Tutorial (Go Through The Tutorial)](https://internetingishard.com/html-and-css/)
 
 Getting a good grasp of how to layout websites is VERY important. The course below is going to get you moving on just that with some cool new additions to CSS.
 
 <h2 id="javascript">JavaScript</h2>
 
-JavScript is where you go from being an artist to being a wizard in web development. A deep knowledge of JavaScript fundamentals will make you a highly employable developer. Complete Javascript Info to get a good beginner grasp of JS.
+JavaScript is where you go from being an artist to being a wizard in web development. A deep knowledge of JavaScript fundamentals will make you a highly employable developer. Complete Javascript Info to get a good beginner grasp of JS.
 
 JavaScript is derived from ECMAScript. This is important since new versions come out having major impact on JavaScript. Read through this resource to understand the newest version of ECMAScript:
 
