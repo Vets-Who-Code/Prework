@@ -4,7 +4,7 @@
 
 Homebrew is a [package manager](https://medium.freecodecamp.org/javascript-package-managers-101-9afd926add0a) that's going to make it simple to install and manage applications.
 
-Run the following line in Terminal.app and then never use Terminal again.
+Run the following line in Terminal.app and then never use Terminal again. *(__Note:__ this is recommended, but not required, VSCode comes with a terminal built-in, you can skip to installing that if you get stuck)*
 
 `brew cask install iterm2`
 
@@ -25,18 +25,5 @@ Push yourself to use shortcuts to improve productivity. [Here](https://medium.co
 `brew cask install cheatsheet`
 
 Then hold down ⌘ for a bit, boom! shortcuts.
-
-## Advanced
-
-For those who are more familiar with code stacks, here is a great article on setting up your mac for things like:
-* Xcode
-* SSH keys
-* Node.js
-* Ruby's RVM
-* Python
-* PostgresSQL 
-* and more!
-
-[Check it out here](http://www.stuartellis.name/articles/mac-setup/)
 
 Good luck Mac users!
