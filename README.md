@@ -62,7 +62,7 @@ Getting a good grasp of how to layout websites is VERY important. The course bel
 
 JavaScript is where you go from being an artist to being a wizard in web development. A deep knowledge of JavaScript fundamentals will make you a highly employable developer. Complete Javascript Info to get a good beginner grasp of JS.
 
-JavaScript is derived from ECMAScript. This is important since new versions come out having major impact on JavaScript. Read through this resource to understand the newest version of ECMAScript:
+JavaScript is derived from ECMAScript. This is important since new versions come out having major impact on JavaScript. Read through this resource from the intro to at least section 5.4 on Arrays to understand the newest version of ECMAScript:
 
 
 
