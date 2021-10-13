@@ -17,7 +17,7 @@ Enable Windows Subsystem for Linux on your Windows 10 machine.
 
 1. Open Visual Studio Code and press and hold `` Ctrl + ` `` to open the terminal.
 2. Open the command palette using `Ctrl + Shift + P`.
-3. Type - `Select Default Shell`.
+3. Type - `Terminal: Select Default Profile`.
 4. Select WSL Bash from the options.
 5. Click on the + icon in the terminal window. The new terminal now will be a WSL Bash terminal!
 *these instructions are credited to [stackoverflow.com](http://stackoverflow.com) user [therobinkin](https://stackoverflow.com/users/3814251/therobinkim) in his [answer](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal#answer-56225296) to this [question](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal)*
