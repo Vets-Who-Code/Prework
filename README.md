@@ -364,9 +364,9 @@ If you want to learn a little bit more about these things or just want to be mor
 
 #### Operable Code
 Upload your code to one of these services and have it run. You'll get a shareable URL that you can use to reference this code.
-[repl.it](https://replit.com/)
-[codepen](https://codepen.io/)
-[Github codespaces](https://github.com/features/codespaces)
+- [repl.it](https://replit.com/)
+- [codepen](https://codepen.io/)
+- [Github codespaces](https://github.com/features/codespaces)
 
 #### Code Repository
 You can use a code repository if you know a programming language that isn't easy to run. However, please have a detailed README.md document explaining how the code runs and maybe screenshots of what it looks like when it runs.
