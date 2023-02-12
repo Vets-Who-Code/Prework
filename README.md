@@ -14,7 +14,7 @@ Welcome to the official Vets Who Code Prework! Here you'll find the tools, work,
 Here are the accounts you will need to store your projects, solve problems, prototype, network, write, and be inspired by others' work. You'll also be able to see some fantastic projects from others.
 
 
-LinkedIn For Veterans
+### LinkedIn For Veterans
 
 As a member of the U.S. military community, you can receive one year of LinkedIn Premium through SheerID's collaboration with LinkedIn. This service offers unlimited access to more than 10,000 courses through our LinkedIn Learning platform as a part of the program.
 
@@ -25,7 +25,7 @@ LinkedIn Premium is a subscription-based service that offers users additional fe
 LinkedIn is a great way to connect with people with similar professional interests and network with potential hiring partners. We also have a LinkedIn Group that we would love for you to join!
 
 
-GitHub
+### GitHub
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -34,7 +34,7 @@ You can use GitHub to build software alongside millions of other developers. You
 GitHub offers an easy way to share your code with friends and classmates, or collaborate on open-source projects.
 
 
-Dev.to
+### Dev.to
 
 If you're a developer looking for a career change or an aspiring developer who wants to learn more, Dev.to is the place to start.
 
@@ -44,11 +44,11 @@ You can find jobs on Dev.to, as well as connect with recruiters and companies se
 
 Whether you're looking for a new job or want to meet other developers, Dev.to is an essential part of any aspiring developer's toolkit!
  
- At #VetsWhoCode We Believe that long-form writing is one of the best ways to scale yourself, so you don't have to retain information, showcase how you communicate, and a simple way to advocate for yourself to non-technical employers when you're not writing since everyone on here is in tech so the people will be your audience.
+At #VetsWhoCode We Believe that long-form writing is one of the best ways to scale yourself, so you don't have to retain information, showcase how you communicate, and a simple way to advocate for yourself to non-technical employers when you're not writing since everyone on here is in tech so the people will be your audience.
 
 <h2 id="command-line">Command Line</h2>
 
-Command Line
+### Command Line
 
 The command line is a text-based interface for interacting with your computer. It's where you can type in commands to perform tasks like copying files and managing folders and running applications.
  
@@ -56,45 +56,45 @@ It's often called the "command prompt" or "terminal," but it's also known as the
 
 Following will be the directions to operate in the command line for MacOS and Windows.
 
-Command Line Operations 
+### Command Line Operations 
 
-Open
+#### Open
 You can use the Terminal app to access your computer's command line. The Terminal is one of the most powerful tools on your Mac, and it's how we'll be running our code.
 
 MacOS: To open Terminal, go to Applications, then to Utilities finally to Terminal.
 Windows: To open the command prompt, click Start and then click All Programs. In the programs list, click Accessories. In the accessories list, click Command Prompt.
 
-Print Working Directory 
+#### Print Working Directory 
 
 To help you know where you are currently in the Terminal we need to print the wordking directory. A directory would look like a folder on the screen of the GUI( Graphical User Interface). Type this command and hit enter:
 
 MacOS: `pwd`
 Windows: `cd`
 
-List Directories
+#### List Directories
 To list all the directories and files in your current location type:
 MacOS : `ls`
 Windows: `dir`
 
-Make Directory
+#### Make Directory
 
 We want a place where we can put all our work in. While in the terminal make a new directory called VetsWhoCode by typing mkdir in Windows or MacOS and press enter:
 
 `mkdir VetsWhoCode`
 
-Change Working Directory
+#### Change Working Directory
 
 Now that we have made a new directory lets go there where we will put our work on our machine. te do that by in both windows and MacOS we do this by dyping cd then pressing enter:
 
 `cd VetsWhoCode`
 
 
-Change to previous Directory
+#### Change to previous Directory
 If you want to go back to the previous directory for both Windows and MacOS you type this and press enter:
 
 `cd ..`
 
-Delete a directory
+#### Delete a directory
 Let's say you make a typo and need to delete a directory. Here are the commands to do that.
 
 MacOS; `rm -r NameOfDirectory`
@@ -123,25 +123,24 @@ git config --global user.email "youremail@example.com"
 
 
 3.	Create a repository: A repository is a place where you can store and manage your code. Click on the “New” button and create a new repository.
-4.	Clone the repository: To start working with the repository, you need to clone it to your local machine. You can do this by clicking on the “Code” button and copying the repository URL. Then, open your terminal or command prompt and type “git clone,” followed by the URL.
+4.	Clone the repository: To start working with the repository, you need to clone it to your local machine. You can do this by clicking on the “Code” button and copying the repository URL. Then, open your terminal or command prompt and type `git clone URL-Goes-Here`.
 5.	Make changes to the repository: Once you have cloned the repository, you can change the code using your favorite code editor.
-6.	Add changes to the staging area: To add your changes to the staging area, type “git add” followed by the file name or directory you want to add. You can use “git add .” to add all the changes.
-7.	Commit changes: Once you have added your changes to the staging area, you can commit them by typing “git commit -m” followed by a brief description of the changes you made.
-8.	Push changes: To upload your changes to the GitHub repository, type “git push” followed by the name of the branch to which you want to push the changes.
-9.	Pull changes: If someone else has changed the repository, you can pull their changes to your local machine by typing “git pull.”
+6.	Add changes to the staging area: To add your changes to the staging area, type `git add`` followed by the file name or directory you want to add. You can use `git add .` to add all the changes.
+7.	Commit changes: Once you have added your changes to the staging area, you can commit them by typing `git commit -m` followed by a brief description of the changes you made.
+8.	Push changes: To upload your changes to the GitHub repository, type `git push` followed by the name of the branch to which you want to push the changes.
+9.	Pull changes: If someone else has changed the repository, you can pull their changes to your local machine by typing `git pull.`
 10.	Create a pull request: If you want to suggest changes to someone else’s repository, you can create a pull request by clicking on the “Pull request” button on their repository page.
 11.	Merge changes: The repository owner can merge your changes into their repository by clicking on the “Merge pull request” button.
 
 <h2 id="html">HTML & CSS</h2>
-
+### HTML && CSS
 HTML (Hypertext Markup Language) is the standard markup language used to create web pages, while CSS (Cascading Style Sheets) is used to style and layout the content. Together, they form the building blocks of most websites.
 
-Set up your environment: To create an HTML and CSS document, you'll need a text editor and a web browser. You can use any text editor, such as Notepad, Sublime Text, or Atom. You can also use online editors like CodePen or JSFiddle to get started quickly.
+1. Set up your environment: To create an HTML and CSS document, you'll need a text editor and a web browser. You can use any text editor, such as Notepad, Sublime Text, or Atom. You can also use online editors like CodePen or JSFiddle to get started quickly.
 
-Create an HTML document: Open your text editor and create a new file. Save it with a .html extension. In this file, you will create the structure of your web page using HTML tags. Here's an example of a basic HTML document:
+2. Create an HTML document: Open your text editor and create a new file. Save it with a .html extension. In this file, you will create the structure of your web page using HTML tags. Here's an example of a basic HTML document:
 
-php
-Copy code
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -152,9 +151,11 @@ Copy code
 	<p>This is my first web page.</p>
 </body>
 </html>
-Add content to the HTML document: Inside the body tags, you can add different types of content, such as headings, paragraphs, images, links, and lists. Here are a few examples:
-php
-Copy code
+```
+
+3. Add content to the HTML document: Inside the body tags, you can add different types of content, such as headings, paragraphs, images, links, and lists. Here are a few examples:
+
+```
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
 <img src="image.jpg" alt="An image">
@@ -164,23 +165,24 @@ Copy code
 	<li>Item 2</li>
 	<li>Item 3</li>
 </ul>
-Create a CSS file: Create a new file in your text editor and save it with a .css extension. In this file, you will define the styles for your HTML document using CSS rules. Here's an example of a basic CSS rule:
-css
-Copy code
+```
+
+4. Create a CSS file: Create a new file in your text editor and save it with a .css extension. In this file, you will define the styles for your HTML document using CSS rules. Here's an example of a basic CSS rule:
+```
 h1 {
   color: red;
 }
+```
+
 This rule sets the color of all h1 elements to red.
 
-Link the CSS file to the HTML document: In the head section of your HTML document, add a link to your CSS file using the following code:
-bash
-Copy code
-<link rel="stylesheet" type="text/css" href="styles.css">
+5 .Link the CSS file to the HTML document: In the head section of your HTML document, add a link to your CSS file using the following code:
+
+`<link rel="stylesheet" type="text/css" href="styles.css">`
 This tells the browser where to find the CSS file that styles the HTML document.
 
-Style the HTML document: Using CSS, you can change the font, color, background, and layout of your web page. Here are a few examples:
-css
-Copy code
+6. Style the HTML document: Using CSS, you can change the font, color, background, and layout of your web page. Here are a few examples:
+```
 body {
   font-family: Arial, sans-serif;
   background-color: #f2f2f2;
@@ -195,87 +197,21 @@ p {
   color: #666;
   font-size: 18px;
 }
-These rules change the font family, background color, font size, and text color of different elements on the page.
+```
 
-Preview your web page: Save both your HTML and CSS files and open the HTML file in a web browser. You should see your web page displayed with the styles you defined in your CSS file.
+These rules change the font family, background color, font size, and text color of different elements on the page.
 
 <h2 id="javascript">JavaScript</h2>
 
-HTML (Hypertext Markup Language) is the standard markup language used to create web pages, while CSS (Cascading Style Sheets) is used to style and layout the content. Together, they form the building blocks of most websites.
-
-Set up your environment: To create an HTML and CSS document, you'll need a text editor and a web browser. You can use any text editor, such as Notepad, Sublime Text, or Atom. You can also use online editors like CodePen or JSFiddle to get started quickly.
-
-Create an HTML document: Open your text editor and create a new file. Save it with a .html extension. In this file, you will create the structure of your web page using HTML tags. Here's an example of a basic HTML document:
-
-php
-Copy code
-<!DOCTYPE html>
-<html>
-<head>
-	<title>My First Web Page</title>
-</head>
-<body>
-	<h1>Welcome to my website!</h1>
-	<p>This is my first web page.</p>
-</body>
-</html>
-Add content to the HTML document: Inside the body tags, you can add different types of content, such as headings, paragraphs, images, links, and lists. Here are a few examples:
-php
-Copy code
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-<img src="image.jpg" alt="An image">
-<a href="https://www.example.com">Visit Example</a>
-<ul>
-	<li>Item 1</li>
-	<li>Item 2</li>
-	<li>Item 3</li>
-</ul>
-Create a CSS file: Create a new file in your text editor and save it with a .css extension. In this file, you will define the styles for your HTML document using CSS rules. Here's an example of a basic CSS rule:
-css
-Copy code
-h1 {
-  color: red;
-}
-This rule sets the color of all h1 elements to red.
-
-Link the CSS file to the HTML document: In the head section of your HTML document, add a link to your CSS file using the following code:
-bash
-Copy code
-<link rel="stylesheet" type="text/css" href="styles.css">
-This tells the browser where to find the CSS file that styles the HTML document.
-
-Style the HTML document: Using CSS, you can change the font, color, background, and layout of your web page. Here are a few examples:
-css
-Copy code
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f2f2f2;
-}
-
-h1 {
-  color: #333;
-  font-size: 36px;
-}
-
-p {
-  color: #666;
-  font-size: 18px;
-}
-These rules change the font family, background color, font size, and text color of different elements on the page.
-
-Preview your web page: Save both your HTML and CSS files and open the HTML file in a web browser. You should see your web page displayed with the styles you defined in your CSS file.
-That's it! This is just a brief overview of HTML and CSS, but it should be enough to get you started. Good luck with your web development projects!
-
+### Javascript
 
 JavaScript is a programming language used to create interactive and dynamic web pages. It's often used for client-side scripting, meaning it runs on the user's web browser.
 
-Set up your environment: To start coding in JavaScript, you'll need a text editor and a web browser. You can use any text editor, such as Notepad, Sublime Text, or Atom. You can also use online editors like CodePen or JSFiddle to get started quickly.
+Set up your environment: To start coding in JavaScript, you'll need a text editor and a web browser. 
 
-Create an HTML document: Open your text editor and create a new file. Save it with a .html extension. In this file, you will create the structure of your web page using HTML tags. Here's an example of a basic HTML document:
+1. Create an HTML document: Open your text editor and create a new file. Save it with a .html extension. In this file, you will create the structure of your web page using HTML tags. Here's an example of a basic HTML document:
 
-php
-Copy code
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -291,25 +227,29 @@ Copy code
 	</script>
 </body>
 </html>
-Add JavaScript to the HTML document: Inside the script tags, you can write JavaScript code. In this example, the code defines a function that changes the text of a paragraph element when a button is clicked.
+```
+
+2. Add JavaScript to the HTML document: Inside the script tags, you can write JavaScript code. In this example, the code defines a function that changes the text of a paragraph element when a button is clicked.
 
 Learn the basics of JavaScript syntax: JavaScript is a programming language, so it has its own syntax and rules. Here are a few basic concepts you should learn:
 
-Variables: You can declare variables using the var, let, or const keywords. Variables hold values that can be used later in your code. For example:
-javascript
-Copy code
+- Variables: You can declare variables using the `var`, `let`, or `const` keywords. Variables hold values that can be used later in your code. While var and let can have interchangable values, the value in `const` is not interchangeblae. Examples of how they:
+
+```
 var name = "John";
 let age = 25;
 const pi = 3.14;
-Functions: Functions are blocks of code that can be called later in your program. You can define functions using the function keyword, followed by the function name and any parameters. For example:
-javascript
-Copy code
+```
+
+- Functions: Functions are blocks of code that can be called later in your program. You can define functions using the function keyword, followed by the function name and any parameters. For example:
+```
 function sayHello(name) {
   console.log("Hello, " + name + "!");
 }
-Conditionals: Conditionals are used to make decisions in your code based on certain conditions. You can use if, else if, and else statements to control the flow of your program. For example:
-javascript
-Copy code
+```
+- Conditionals: Conditionals are used to make decisions in your code based on certain conditions. You can use if, else if, and else statements to control the flow of your program. For example:
+
+```
 let grade = 85;
 
 if (grade >= 90) {
@@ -319,9 +259,10 @@ if (grade >= 90) {
 } else {
   console.log("You got a C or lower.");
 }
-Loops: Loops are used to repeat a block of code a certain number of times. You can use for and while loops to iterate over arrays or perform other actions. For example:
-javascript
-Copy code
+```
+- Loops: Loops are used to repeat a block of code a certain number of times. You can use for and while loops to iterate over arrays or perform other actions. For example:
+
+```
 let numbers = [1, 2, 3, 4, 5];
 
 for (let i = 0; i < numbers.length; i++) {
@@ -333,12 +274,14 @@ while (count < 10) {
   console.log(count);
   count++;
 }
-Use external JavaScript files: You can also create separate JavaScript files and link them to your HTML document using the script tag. This can help keep your code organized and easier to manage.
+```
+
+Use external JavaScript files: You can also create separate JavaScript files and link them to your HTML document using the `script` tag. This can help keep your code organized and easier to manage.
 
 
 
 <h2 id="capstone">Capstone</h2>
 
-Build a website telling about you and include your favorite things and then push it to GitHub. Bonus points if you use [GitHub Pages](https://pages.github.com/) or [surge.sh](https://surge.sh/) to host your site.
+Using the examples and lessons taught here, build a basic website telling us about you, including your favorite things, and then push it to GitHub. Bonus points if you use [GitHub Pages](https://pages.github.com/) or [surge.sh](https://surge.sh/) to host your site.
 
 **NOTICE: DO NOT USE A TEMPLATE OR THEME IF USING THIS PREWORK TO APPLY FOR VETSWHOCODE. USE ONLY YOUR OWN HTML, CSS AND JAVASCRIPT.**
