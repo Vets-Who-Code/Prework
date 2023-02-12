@@ -303,6 +303,7 @@ console.log(numbers[2] // The answer will be 3 because in programming counting b
 
 let colors = ["red", "green", "blue"];
 console.log(colors[1]) // The answer will be green
+```
 
 - **String/Array methods** : JavaScript provides a number of built-in methods for working with strings and arrays. Here are a few examples:
 
