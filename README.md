@@ -12,7 +12,7 @@ Welcome to the official Vets Who Code Prework! Here you'll find the tools, work,
 Here are the accounts you will need to store your projects, solve problems, prototype, network, write, and be inspired by others' work. You'll also be able to see some fantastic projects from others.
 
 
-#### LinkedIn For Veterans
+#### [LinkedIn For Veterans](https://socialimpact.linkedin.com/programs/veterans/premiumform)
 
 As a member of the U.S. military community, you can receive one year of LinkedIn Premium through SheerID's collaboration with LinkedIn. This service offers unlimited access to more than 10,000 courses through our LinkedIn Learning platform as a part of the program.
 
@@ -23,7 +23,7 @@ LinkedIn Premium is a subscription-based service that offers users additional fe
 LinkedIn is a great way to connect with people with similar professional interests and network with potential hiring partners. We also have a LinkedIn Group that we would love for you to join!
 
 
-#### GitHub
+#### [GitHub](https://github.com/)
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -32,7 +32,7 @@ You can use GitHub to build software alongside millions of other developers. You
 GitHub offers an easy way to share your code with friends and classmates, or collaborate on open-source projects.
 
 
-#### Dev.to
+#### [Dev.to](https://dev.to/)
 
 If you're a developer looking for a career change or an aspiring developer who wants to learn more, Dev.to is the place to start.
 
@@ -99,11 +99,11 @@ Windows: `rmdir /S NameOfDirectory`
 ### Code Editor
 
 An Integrated Development Environment (IDE) is a software application that provides comprehensive tools and features to assist developers in writing, debugging, and deploying software. An IDE typically includes a code editor, a debugger, a compiler or interpreter, and other tools such as a profiler, a version control system, and a build automation tool.
-An IDE can also provide features like auto-completion, syntax highlighting, and code refactoring to make coding faster and more efficient. IDEs are commonly used for developing software applications, web applications, and mobile apps. Our preferred IDE is Visual Studio Code. Download it here. You can also install our developer extension pack by going to extensions and typing VetsWhoCode Extension Pack.
+An IDE can also provide features like auto-completion, syntax highlighting, and code refactoring to make coding faster and more efficient. IDEs are commonly used for developing software applications, web applications, and mobile apps. Our preferred IDE is Visual Studio Code. Download it [here](https://code.visualstudio.com/). You can also install our developer extension pack by going to extensions and typing [VetsWhoCode Extension Pack](https://marketplace.visualstudio.com/items?itemName=VetsWhoCode.vetswhocode-extension-pack).
 
 ### Browser
 
-The preferred browser for Vets Who Code is the Google Chrome, due to its popularity and its robust developer tools. To download it please go here and follow the prompts.
+The preferred browser for Vets Who Code is the Google Chrome, due to its popularity and its robust developer tools. To download it please go [here](https://www.google.com/chrome/) and follow the prompts.
 
 
 ### Using GitHub
@@ -271,6 +271,13 @@ while (count < 10) {
 ```
 
 Use external JavaScript files: You can also create separate JavaScript files and link them to your HTML document using the `script` tag. This can help keep your code organized and easier to manage.
+
+### Resources
+
+If you want to learn a little bit more about these things or just want to be more prepared, these are our highly recommended resources.
+- [Front End Masters Handbook](https://frontendmasters.com/guides/front-end-handbook/2019/)
+- [Mozilla MDN](https://developer.mozilla.org/en-US/)
+-[The Modern Javascript Tutorial](https://javascript.info/)
 
 ### Capstone
 
