@@ -115,8 +115,10 @@ The preferred browser for Vets Who Code is the Google Chrome, due to its popular
 
 1.	 Install Git: Git is a version control system used by GitHub. You can download and install Git for Windows from the official Git website.
 2.	 Configure Git: After installing Git, open the Git Bash application and configure your name and email address using the following commands:
-`git config --global user.name "Your Name"
-git config --global user.email "youremail@example.com"`
+```console
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+```
 
 
 
