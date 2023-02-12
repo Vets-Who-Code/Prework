@@ -124,7 +124,7 @@ git config --global user.email "youremail@example.com"
 6.	Add changes to the staging area: To add your changes to the staging area, type `git add` followed by the file name or directory you want to add. You can use `git add .` to add all the changes.
 7.	Commit changes: Once you have added your changes to the staging area, you can commit them by typing `git commit -m` followed by a brief description of the changes you made.
 8.	Push changes: To upload your changes to the GitHub repository, type `git push` followed by the name of the branch to which you want to push the changes.
-9.	Pull changes: If someone else has changed the repository, you can pull their changes to your local machine by typing `git pull.`
+9.	Pull changes: If someone else has changed the repository, you can pull their changes to your local machine by typing `git pull`.
 10.	Create a pull request: If you want to suggest changes to someone else’s repository, you can create a pull request by clicking on the “Pull request” button on their repository page.
 11.	Merge changes: The repository owner can merge your changes into their repository by clicking on the “Merge pull request” button.
 
