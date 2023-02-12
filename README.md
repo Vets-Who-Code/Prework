@@ -227,7 +227,7 @@ Set up your environment: To start coding in JavaScript, you'll need a text edito
 
 Learn the basics of JavaScript syntax: JavaScript is a programming language, so it has its own syntax and rules. Here are a few basic concepts you should learn:
 
-- Variables: You can declare variables using the `var`, `let`, or `const` keywords. Variables hold values that can be used later in your code. While var and let can have interchangable values, the value in `const` is not interchangeblae. Examples of how they:
+- **Variables**: You can declare variables using the `var`, `let`, or `const` keywords. Variables hold values that can be used later in your code. While var and let can have interchangable values, the value in `const` is not interchangeblae. Examples of how they:
 
 ```
 var name = "John";
@@ -235,13 +235,21 @@ let age = 25;
 const pi = 3.14;
 ```
 
-- Functions: Functions are blocks of code that can be called later in your program. You can define functions using the function keyword, followed by the function name and any parameters. For example:
+- **Functions**: Functions are blocks of code that can be called later in your program. You can define functions using the function keyword, followed by the function name and any parameters. some examples:
 ```
 function sayHello(name) {
   console.log("Hello, " + name + "!");
 }
+sayHello("Jody")
+
+function square(number) {
+  return number * number;
+}
+
+square(7)
 ```
-- Conditionals: Conditionals are used to make decisions in your code based on certain conditions. You can use if, else if, and else statements to control the flow of your program. For example:
+
+- **Conditionals**: Conditionals are used to make decisions in your code based on certain conditions. You can use if, else if, and else statements to control the flow of your program. For example:
 
 ```
 let grade = 85;
@@ -254,7 +262,7 @@ if (grade >= 90) {
   console.log("You got a C or lower.");
 }
 ```
-- Loops: Loops are used to repeat a block of code a certain number of times. You can use for and while loops to iterate over arrays or perform other actions. For example:
+- **Loops**: Loops are used to repeat a block of code a certain number of times. You can use for and while loops to iterate over arrays or perform other actions. For example:
 
 ```
 let numbers = [1, 2, 3, 4, 5];
@@ -269,6 +277,76 @@ while (count < 10) {
   count++;
 }
 ```
+- **Basic math operations**:
+JavaScript supports basic math operations such as addition, subtraction, multiplication, and division. Here are a few examples:
+
+```
+let x = 5;
+let y = 10;
+let sum = x + y; // 15
+let difference = y - x; // 5
+let product = x * y; // 50
+let quotient = y / x; // 2
+```
+- **Strings**:
+Strings are used to represent text in JavaScript. You can declare strings using single or double quotes. Here are a few examples:
+```
+let greeting = "Hello, world!";
+let name = 'John';
+```
+
+- **Arrays**:
+Arrays are used to store a collection of data. You can create arrays using square brackets and separate the values with commas. Here are a few examples:
+```
+let numbers = [1, 2, 3, 4, 5];
+console.log(numbers[2] // The answer will be 3 because in programming counting begins at zero
+
+let colors = ["red", "green", "blue"];
+console.log(colors[1]) // The answer will be green
+
+- **String/Array methods** : JavaScript provides a number of built-in methods for working with strings and arrays. Here are a few examples:
+
+```
+// String methods
+let message = "Hello, world!";
+console.log(message.length); // 13
+console.log(message.toUpperCase()); // "HELLO, WORLD!"
+console.log(message.indexOf("world")); // 7
+
+// Array methods
+let numbers = [1, 2, 3, 4, 5];
+console.log(numbers.length); // 5
+console.log(numbers.reverse()); // [5, 4, 3, 2, 1]
+console.log(numbers.join(", ")); // "5, 4, 3, 2, 1"
+```
+- **Objects (properties/methods)**:objects are key-value pairs used to represent real-world entities or concepts, as well as to organize and structure data.Here is an example:
+```
+// Create the object
+const person = {
+  name: 'Jody',
+  age: 30,
+  gender: 'male',
+  sayHello: function() {
+    console.log('Hello!');
+  }
+};
+
+// Accessing the object
+
+console.log(person.name); // Output: Jody
+console.log(person['age']); // Output: 30
+person.sayHello(); // Output: Hello!
+
+// Adding or Updating the object
+person.age = 35;
+person.job = 'developer';
+console.log(person.age); // Output: 35
+console.log(person.job); // Output: developer
+
+// Removing properties
+delete person.gender;
+console.log(person.gender); // Output: undefined
+```
 
 Use external JavaScript files: You can also create separate JavaScript files and link them to your HTML document using the `script` tag. This can help keep your code organized and easier to manage.
 
@@ -278,9 +356,16 @@ If you want to learn a little bit more about these things or just want to be mor
 - [Front End Masters Handbook](https://frontendmasters.com/guides/front-end-handbook/2019/)
 - [Mozilla MDN](https://developer.mozilla.org/en-US/)
 -[The Modern Javascript Tutorial](https://javascript.info/)
+- [Getting To know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
 
-### Capstone
+### Capstone options
 
-Using the examples and lessons taught here, build a basic website telling us about you, including your favorite things, and then push it to GitHub. Bonus points if you use [GitHub Pages](https://pages.github.com/) or [surge.sh](https://surge.sh/) to host your site.
+#### Operable Code
+Upload your code to one of these services and have it run. You'll get a shareable URL that you can use to reference this code.
+[repl.it](https://replit.com/)
+[codepen](https://codepen.io/)
+[Github codespaces](https://github.com/features/codespaces)
 
-**NOTICE: DO NOT USE A TEMPLATE OR THEME IF USING THIS PREWORK TO APPLY FOR VETSWHOCODE. USE ONLY YOUR OWN HTML, CSS AND JAVASCRIPT. USE OF JAVASCRIPT IS MANDATORY**
+#### Code Repository
+You can use a code repository if you know a programming language that isn't easy to run. However, please have a detailed README.md document explaining how the code runs and maybe screenshots of what it looks like when it runs.
+
