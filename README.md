@@ -1,7 +1,5 @@
 <h1 align="center"><img src="/img/vwc.gif" alt="Vets Who Code" width="100px" /> VETS WHO CODE</h1>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Accounts](#accounts)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Command Line](#command-line)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[HTML & CSS](#html)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[JavaScript](#javascript)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Capstone](#capstone)
-
 ---
 
 ## [Prework](https://vetswhocode.io)
@@ -9,12 +7,12 @@
 Welcome to the official Vets Who Code Prework! Here you'll find the tools, work, and accounts to prepare you for Vets Who Code's prior coursework.  We recommend you complete each section as they build upon one another. The prework should take a total of eight hours to complete.
 
 
-<h2 id=accounts>Accounts</h2>
+ ### Accounts
 
 Here are the accounts you will need to store your projects, solve problems, prototype, network, write, and be inspired by others' work. You'll also be able to see some fantastic projects from others.
 
 
-### LinkedIn For Veterans
+#### LinkedIn For Veterans
 
 As a member of the U.S. military community, you can receive one year of LinkedIn Premium through SheerID's collaboration with LinkedIn. This service offers unlimited access to more than 10,000 courses through our LinkedIn Learning platform as a part of the program.
 
@@ -25,7 +23,7 @@ LinkedIn Premium is a subscription-based service that offers users additional fe
 LinkedIn is a great way to connect with people with similar professional interests and network with potential hiring partners. We also have a LinkedIn Group that we would love for you to join!
 
 
-### GitHub
+#### GitHub
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -34,7 +32,7 @@ You can use GitHub to build software alongside millions of other developers. You
 GitHub offers an easy way to share your code with friends and classmates, or collaborate on open-source projects.
 
 
-### Dev.to
+#### Dev.to
 
 If you're a developer looking for a career change or an aspiring developer who wants to learn more, Dev.to is the place to start.
 
@@ -45,8 +43,6 @@ You can find jobs on Dev.to, as well as connect with recruiters and companies se
 Whether you're looking for a new job or want to meet other developers, Dev.to is an essential part of any aspiring developer's toolkit!
  
 At #VetsWhoCode We Believe that long-form writing is one of the best ways to scale yourself, so you don't have to retain information, showcase how you communicate, and a simple way to advocate for yourself to non-technical employers when you're not writing since everyone on here is in tech so the people will be your audience.
-
-<h2 id="command-line">Command Line</h2>
 
 ### Command Line
 
@@ -201,8 +197,6 @@ p {
 
 These rules change the font family, background color, font size, and text color of different elements on the page.
 
-<h2 id="javascript">JavaScript</h2>
-
 ### Javascript
 
 JavaScript is a programming language used to create interactive and dynamic web pages. It's often used for client-side scripting, meaning it runs on the user's web browser.
@@ -278,9 +272,7 @@ while (count < 10) {
 
 Use external JavaScript files: You can also create separate JavaScript files and link them to your HTML document using the `script` tag. This can help keep your code organized and easier to manage.
 
-
-
-<h2 id="capstone">Capstone</h2>
+### Capstone
 
 Using the examples and lessons taught here, build a basic website telling us about you, including your favorite things, and then push it to GitHub. Bonus points if you use [GitHub Pages](https://pages.github.com/) or [surge.sh](https://surge.sh/) to host your site.
 
