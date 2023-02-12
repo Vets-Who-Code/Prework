@@ -369,5 +369,5 @@ Upload your code to one of these services and have it run. You'll get a shareabl
 - [Github codespaces](https://github.com/features/codespaces)
 
 #### Code Repository
-You can use a code repository if you know a programming language that isn't easy to run. However, please have a detailed README.md document explaining how the code runs and maybe screenshots of what it looks like when it runs.
+You can use a code repository if you choose. However, please have a detailed README.md document explaining how the code runs and maybe screenshots of what it looks like when it runs.
 
