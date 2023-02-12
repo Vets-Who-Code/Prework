@@ -283,4 +283,4 @@ If you want to learn a little bit more about these things or just want to be mor
 
 Using the examples and lessons taught here, build a basic website telling us about you, including your favorite things, and then push it to GitHub. Bonus points if you use [GitHub Pages](https://pages.github.com/) or [surge.sh](https://surge.sh/) to host your site.
 
-**NOTICE: DO NOT USE A TEMPLATE OR THEME IF USING THIS PREWORK TO APPLY FOR VETSWHOCODE. USE ONLY YOUR OWN HTML, CSS AND JAVASCRIPT.**
+**NOTICE: DO NOT USE A TEMPLATE OR THEME IF USING THIS PREWORK TO APPLY FOR VETSWHOCODE. USE ONLY YOUR OWN HTML, CSS AND JAVASCRIPT. USE OF JAVASCRIPT IS MANDATORY**
