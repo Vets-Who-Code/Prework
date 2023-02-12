@@ -320,6 +320,7 @@ console.log(numbers.reverse()); // [5, 4, 3, 2, 1]
 console.log(numbers.join(", ")); // "5, 4, 3, 2, 1"
 ```
 - **Objects (properties/methods)**:objects are key-value pairs used to represent real-world entities or concepts, as well as to organize and structure data.Here is an example:
+
 ```
 // Create the object
 const person = {
