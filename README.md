@@ -357,7 +357,7 @@ Use external JavaScript files: You can also create separate JavaScript files and
 If you want to learn a little bit more about these things or just want to be more prepared, these are our highly recommended resources.
 - [Front End Masters Handbook](https://frontendmasters.com/guides/front-end-handbook/2019/)
 - [Mozilla MDN](https://developer.mozilla.org/en-US/)
--[The Modern Javascript Tutorial](https://javascript.info/)
+- [The Modern Javascript Tutorial](https://javascript.info/)
 - [Getting To know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
 
 ### Capstone options
