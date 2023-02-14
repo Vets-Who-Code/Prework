@@ -132,7 +132,7 @@ git config --global user.email "youremail@example.com"
 11.	Merge changes: The repository owner can merge your changes into their repository by clicking on the “Merge pull request” button.
 
 ### HTML && CSS
-HTML (Hypertext Markup Language) is the standard markup language used to create web pages, while CSS (Cascading Style Sheets) is used to style and layout the content. Together, they form the building blocks of most websites.
+Hypertext Markup Language (HTML) is the standard language used to create web pages, while Cascading Style Sheets (CSS) is used to style and layout the content. Together, they form the building blocks of most websites.
 
 1. Set up your environment: To create an HTML and CSS document, you'll need a text editor and a web browser. You can use any text editor, such as Notepad, Sublime Text, or Atom. You can also use online editors like CodePen or JSFiddle to get started quickly.
 
