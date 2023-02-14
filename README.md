@@ -172,7 +172,7 @@ h1 {
 
 This rule sets the color of all h1 elements to red.
 
-5 .Link the CSS file to the HTML document: In the head section of your HTML document, add a link to your CSS file using the following code:
+5. Link the CSS file to the HTML document: In the head section of your HTML document, add a link to your CSS file using the following code:
 
 `<link rel="stylesheet" type="text/css" href="styles.css">`
 This tells the browser where to find the CSS file that styles the HTML document.
