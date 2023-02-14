@@ -103,7 +103,7 @@ An IDE can also provide features like auto-completion, syntax highlighting, and 
 
 ### Browser
 
-The preferred browser for Vets Who Code is the Google Chrome, due to its popularity and its robust developer tools. To download it please go [here](https://www.google.com/chrome/) and follow the prompts.
+The preferred browser for Vets Who Code is Google Chrome, due to its popularity and its robust developer tools. To download it please go [here](https://www.google.com/chrome/) and follow the prompts.
 
 
 ### Using GitHub
