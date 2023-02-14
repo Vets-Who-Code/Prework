@@ -62,7 +62,7 @@ Windows: To open the command prompt, click Start and then click All Programs. In
 
 #### Print Working Directory 
 
-To help you know where you are currently in the Terminal we need to print the wordking directory. A directory would look like a folder on the screen of the GUI( Graphical User Interface). Type this command and hit enter:
+To help you know where you are currently in the Terminal we need to print the working directory. A directory would look like a folder on the screen of the Graphical User Interface (GUI). Type this command and hit enter:
 
 MacOS: `pwd`
 Windows: `cd`
