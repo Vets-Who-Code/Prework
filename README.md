@@ -119,6 +119,8 @@ git config --global user.email "youremail@example.com"
 
 
 3.	Create a repository: A repository is a place where you can store and manage your code. Click on the “New” button and create a new repository.
+![image](https://user-images.githubusercontent.com/24581531/218554688-7d3594a4-eb28-41f2-8683-8426d2783480.png)
+
 4.	Clone the repository: To start working with the repository, you need to clone it to your local machine. You can do this by clicking on the “Code” button and copying the repository URL. Then, open your terminal or command prompt and type `git clone URL-Goes-Here`.
 5.	Make changes to the repository: Once you have cloned the repository, you can change the code using your favorite code editor.
 6.	Add changes to the staging area: To add your changes to the staging area, type `git add` followed by the file name or directory you want to add. You can use `git add .` to add all the changes.
