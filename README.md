@@ -131,7 +131,6 @@ git config --global user.email "youremail@example.com"
 10.	Create a pull request: If you want to suggest changes to someone else’s repository, you can create a pull request by clicking on the “Pull request” button on their repository page.
 11.	Merge changes: The repository owner can merge your changes into their repository by clicking on the “Merge pull request” button.
 
-<h2 id="html">HTML & CSS</h2>
 ### HTML && CSS
 HTML (Hypertext Markup Language) is the standard markup language used to create web pages, while CSS (Cascading Style Sheets) is used to style and layout the content. Together, they form the building blocks of most websites.
 
