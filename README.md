@@ -46,7 +46,7 @@ At #VetsWhoCode We Believe that long-form writing is one of the best ways to sca
 
 ### Command Line
 
-The command line is a text-based interface for interacting with your computer. It's where you can type in commands to perform tasks like copying files and managing folders and running applications.
+The command line is a text-based interface for interacting with your computer. It's where you can type in commands to perform tasks like copying files, managing folders, and running applications.
  
 It's often called the "command prompt" or "terminal," but it's also known as the "console" or "CLI," which stands for "command line interface." The application name used to access the command line differs from OS to OS: On Windows, it's called cmd (for Command Prompt), while on Mac, it's called Terminal.
 
