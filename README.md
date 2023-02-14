@@ -4,7 +4,7 @@
 
 ## [Prework](https://vetswhocode.io)
 
-Welcome to the official Vets Who Code Prework! Here you'll find the tools, work, and accounts to prepare you for Vets Who Code's prior coursework.  We recommend you complete each section as they build upon one another. The prework should take a total of eight hours to complete.
+Welcome to the official Vets Who Code Prework! Here you'll find the tools, work, and accounts to prepare you for Vets Who Code's coursework.  We recommend you complete each section as they build upon one another. The prework should take a total of eight hours to complete.
 
 
  ### Accounts
