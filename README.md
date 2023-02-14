@@ -122,7 +122,7 @@ git config --global user.email "youremail@example.com"
 ![image](https://user-images.githubusercontent.com/24581531/218554688-7d3594a4-eb28-41f2-8683-8426d2783480.png)
 
 4.	Clone the repository: To start working with the repository, you need to clone it to your local machine. You can do this by clicking on the “Code” button and copying the repository URL. Then, open your terminal or command prompt and type `git clone URL-Goes-Here`.
-5.	Make changes to the repository: Once you have cloned the repository, you can change the code using your favorite code editor.
+5.	Start coding: Once you have cloned the repository, you can change the code using your favorite code editor. To do this, open up the repository you just downloaded with VS Code (it's just a folder). Make text changes in files, create/remove folders and update their names. You're now coding.
 6.	Add changes to the staging area: To add your changes to the staging area, type `git add` followed by the file name or directory you want to add. You can use `git add .` to add all the changes.
 7.	Commit changes: Once you have added your changes to the staging area, you can commit them by typing `git commit -m` followed by a brief description of the changes you made.
 8.	Push changes: To upload your changes to the GitHub repository, type `git push` followed by the name of the branch to which you want to push the changes.
