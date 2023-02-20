@@ -25,11 +25,7 @@ LinkedIn is a great way to connect with people with similar professional interes
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-You can use GitHub to build software alongside millions of other developers. You can also use it to learn how to code, or find help with programming problems.
-
-GitHub offers an easy way to share your code with friends and classmates, or collaborate on open-source projects.
-
-
+Take a look at our [Github organization](https://github.com/Vets-Who-Code) and we can't wait for you to join!
 #### [Dev.to](https://dev.to/)
 
 If you're a developer looking for a career change or an aspiring developer who wants to learn more, Dev.to is the place to start.
