@@ -14,13 +14,11 @@ Here are the accounts you will need to store your projects, solve problems, prot
 
 #### [LinkedIn For Veterans](https://socialimpact.linkedin.com/programs/veterans/premiumform)
 
-As a member of the U.S. military community, you can receive one year of LinkedIn Premium through SheerID's collaboration with LinkedIn. This service offers unlimited access to more than 10,000 courses through our LinkedIn Learning platform as a part of the program.
-
-LinkedIn Learning is also pleased to offer eligible military spouses one year of access to LinkedIn Premium. As part of the program, you'll also gain access to more than 17,000 courses through LinkedIn Learning to help you manage your career and nurture your professional development.
-
 LinkedIn Premium is a subscription-based service that offers users additional features not available on the free LinkedIn platform. These features include seeing who has viewed your profile, sending unlimited InMails to recruiters, and accessing exclusive content and events.
 
-LinkedIn is a great way to connect with people with similar professional interests and network with potential hiring partners. We also have a LinkedIn Group that we would love for you to join!
+Whether you are active-duty, a veteran or a military spouse,as a member of the U.S. military community, you can receive one year of LinkedIn. This service offers unlimited access to thousands of hours of  courses through our LinkedIn Learning platform as a part of the program.
+
+LinkedIn is a great way to connect with people with similar professional interests and network with potential hiring partners. We also have a [LinkedIn Group](https://www.linkedin.com/groups/14143071/) that we would love for you to join!
 
 
 #### [GitHub](https://github.com/)
