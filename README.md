@@ -356,7 +356,10 @@ If you want to learn a little bit more about these things or just want to be mor
 - [The Modern Javascript Tutorial](https://javascript.info/)
 - [Getting To know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
 
-### Capstone options
+
+### Capstone
+Using the learnings above, as well as the web, build an HTMl, CSS, and JS website from scratch telling us about yourself. **USING A TEMPLATE IS NOT ALLOWED.**
+### Capstone Delivery Options
 
 #### Operable Code
 Upload your code to one of these services and have it run. You'll get a shareable URL that you can use to reference this code.
