@@ -358,7 +358,7 @@ If you want to learn a little bit more about these things or just want to be mor
 
 
 ### Capstone
-Using the learnings above, as well as the web, build an HTMl, CSS, and JS website from scratch telling us about yourself. **USING A TEMPLATE IS NOT ALLOWED.**
+Your capstone project should use HTML, CSS, and JavaScript to build an essential website that tells us about you. This project aims to give you hands-on experience with these crucial web development technologies and apply the concepts you have learned during your studies while giving us something to discuss during your interview process.
 ### Capstone Delivery Options
 
 #### Operable Code
