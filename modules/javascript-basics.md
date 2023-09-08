@@ -1,10 +1,10 @@
-<center>
+<div align="center">
   <a href="https://vetswhocode.io">
     <img src="../img/vwc-logo.png" alt="Vets Who Code" width="400px" />
   </a>
-</center>
+</div>
 
-<h1 align="center">JavaScript: Your Gateway to Web Interactivity</h1>
+<h1 align="center">JavaScript: Unlocking Web Interactivity</h1>
 
 JavaScript (JS) is a powerful scripting language that breathes life into websites, making them interactive and dynamic. Let's explore this fascinating world!
 
@@ -166,5 +166,8 @@ console.log(person.gender); // Output: undefined
 
 ## 🪄 Enhancing Your Web Pages
 You can also keep your JavaScript code in separate files and link them to your HTML using the `<script>` tag. This keeps your code organized and easy to manage.
+
+&emsp;
+<hr />
 
 **Enjoy exploring the endless possibilities of web interactivity. 🌐🚀🌟**

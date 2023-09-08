@@ -1,8 +1,8 @@
-<center>
+<div align="center">
   <a href="https://vetswhocode.io">
     <img src="../img/vwc-logo.png" alt="Vets Who Code" width="400px" />
   </a>
-</center>
+</div>
 
 <h1 align="center">Command Line Basics: Your Gateway to Web Development Magic</h1>
 
@@ -102,4 +102,5 @@ Git and GitHub are essential for collaboration and version control. Here's how t
 
 &emsp;
 <hr />
-Now, you're armed with the knowledge and tools to embark on your web development journey. Get ready to create, innovate, and make your mark on the digital world! 🚀
+
+**Now, you're armed with the knowledge and tools to embark on your web development journey. Get ready to create, innovate, and make your mark on the digital world! 🚀**

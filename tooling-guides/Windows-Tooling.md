@@ -1,4 +1,10 @@
-# Windows Tooling
+<div align="center">
+  <a href="https://vetswhocode.io">
+    <img src="../img/vwc-logo.png" alt="Vets Who Code" width="400px" />
+  </a>
+</div>
+
+<h1 align="center">Windows Tooling</h1>
 
 While you can (and many do) use Windows for web development, unless you're developing dot-net apps in Visual Studio (not the same as Visual Studio Code), you'll be saving yourself a lot of heartache if you install Linux as an app within Windows, and utilize the tools that provides for you, instead (Even Microsoft thinks so, and provides an explanation as to why [here](https://docs.microsoft.com/en-us/windows/wsl/faq#why-would-i-use-for-example-ruby-on-linux-instead-of-on-windows). You'll still be able to run VS Code as you would in a Windows environment, but with the added bonus of being to work within the same terminal environment as Mac and Linux users, in other words, the tools that the open-source community was founded on and still uses primarily to this day.
 

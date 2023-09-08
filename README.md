@@ -1,8 +1,8 @@
-<center>
+<div align="center">
   <a href="https://vetswhocode.io">
     <img src="./img/vwc-logo.png" alt="Vets Who Code" width="400px" />
   </a>
-</center>
+</div>
 
 <h1 align="center">Prework</h1>
 
@@ -23,7 +23,7 @@ This prework will take approximately 8 hours to complete.
     - [What's the Command Line?](modules/command-line-basics.md#💻-whats-the-command-line)
     - [Command Line Operations](modules/command-line-basics.md#🪄-command-line-operations)
     - [The Code Editor: Your Creative Playground](modules/command-line-basics.md#✨-the-code-editor-your-creative-playground)
-    - [Browser Matters](modules/command-line-basics.md#🌐 -browser-matters)
+    - [Browser Matters](modules/command-line-basics.md#🌐-browser-matters)
     - [Git and GitHub: The Developer's Playground](modules/command-line-basics.md#🐙-git-and-github-the-developers-playground)
   - [HTML & CSS: The Dynamic Duo of Web Creation](./modules/html-css-basics.md#html--css-the-dynamic-duo-of-web-creation)
     - [Setting Up Your Superhero Headquarters](./modules/html-css-basics.md#🚀-setting-up-your-superhero-headquarters)

@@ -1,4 +1,10 @@
-# HTML & CSS: The Dynamic Duo of Web Creation
+<div align="center">
+  <a href="https://vetswhocode.io">
+    <img src="../img/vwc-logo.png" alt="Vets Who Code" width="400px" />
+  </a>
+</div>
+
+<h1 align="center">HTML & CSS: The Dynamic Duo of Web Creation</h1>
 
 HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are the dynamic duo that powers the web. They're like Batman and Robin for websites, and together, they build the online world we know and love. Let's dive into this exciting partnership!
 
@@ -89,4 +95,5 @@ These rules change the font family, background color, font size, and text color 
 
 &emsp;
 <hr />
-Now, you're ready to create web wonders with HTML and CSS, turning the ordinary into the extraordinary! 🦸‍♂️💥
+
+**Now, you're ready to create web wonders with HTML and CSS, turning the ordinary into the extraordinary! 🦸‍♂️💥**
