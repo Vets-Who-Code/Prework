@@ -50,11 +50,11 @@ To make the most of your learning journey, follow these steps:
 
 2. [Review the Modules](modules/command-line-basics.md#💻-whats-the-command-line)
 
-3. [Capstone: Unleash Your Web Development Skills](modules/capstone.md)
+3. [Complete the Capstone](modules/capstone.md)
 
 4. [Apply to the Program](modules/capstone.md#✅-ready-to-impress)
 
-5. [Review Additional Resources (Optional but highly encouraged)](#📄-resources)
+5. [Review Additional Resources](#📄-resources) &ensp;_(Optional but highly encouraged)_
 
 If you have any questions or encounter any issues during the submission process, don't hesitate to reach out to [hello@vetswhocode.io](mailto:hello@vetswhocode.io) for assistance.
 
