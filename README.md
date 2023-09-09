@@ -12,16 +12,10 @@ This condensed program has been meticulously crafted to acquaint you with the es
 
 This prework will take approximately 8 hours to complete.
 
-## :bookmark: Table of Contents
-- [Instructions for Success](#:memo:-instructions-for-success)
-- [Account Setup](#:wrench:-account-setup)
-  - [LinkedIn For Veterans](#linkedin-for-veterans)
-  - [GitHub](#github)
-  - [Dev.to](#devto)
-- [Modules](modules)
+## :books: Modules
   - [Command Line Basics: Your Gateway to Web Development Magic](modules/command-line-basics.md)
     - [What's the Command Line?](modules/command-line-basics.md#:computer:-whats-the-command-line)
-    - [Command Line Operations](modules/command-line-basics.md#:page_with_curl:-command-line-operations)
+    - [Command Line Operations](modules/command-line-basics.md#/:page_with_curl/:-command-line-operations)
     - [The Code Editor: Your Creative Playground](modules/command-line-basics.md#:sparkles:-the-code-editor-your-creative-playground)
     - [Browser Matters](modules/command-line-basics.md#:globe_with_meridians:-browser-matters)
     - [Git and GitHub: The Developer's Playground](modules/command-line-basics.md#:octocat:-git-and-github-the-developers-playground)
@@ -39,7 +33,6 @@ This prework will take approximately 8 hours to complete.
     - [Delivery Options](modules/capstone.md#:outbox_tray:-delivery-options)
     - [Ready to Impress?](modules/capstone.md#:white_check_mark:-ready-to-impress)
     - [What's Next?](modules/capstone.md#:rocket:-whats-next)
-- [Additional Resources](#:books:-resources)
 
 &emsp;
 ## :memo: Instructions for Success
@@ -59,7 +52,7 @@ To make the most of your learning journey, follow these steps:
 If you have any questions or encounter any issues during the submission process, don't hesitate to reach out to [hello@vetswhocode.io](mailto:hello@vetswhocode.io) for assistance.
 
 &emsp;
-## :wrench: Account Setup
+## 🛠️ Account Setup
 
 Before we begin the technical coursework, let's ensure you have all the essential accounts to empower your software engineering journey. These accounts will be your keys to storing projects, solving problems, prototyping, networking, writing, and gaining inspiration from fellow engineers. You'll also gain access to some fantastic projects from others in the industry.
 
@@ -88,7 +81,7 @@ Before we begin the technical coursework, let's ensure you have all the essentia
 **Unleash the Power of Writing:** At VWC, we believe that long-form writing is a powerful tool to showcase your expertise and communicate effectively. Use Dev.to to document valuable information, expand your knowledge, and stand out in the tech industry.
 
 &emsp;
-## :books: Resources
+## 📑 Resources
 
 If you want to learn a little bit more about these things or just want to be more prepared, these are our highly recommended resources.
 
