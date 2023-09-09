@@ -9,7 +9,7 @@
 In this module, we'll dive into the fundamentals of the command line, a powerful tool that will empower you to work your coding wizardry.
 
 &emsp;
-## 💻 What's the Command Line?
+## :computer: What's the Command Line?
 
 The command line, often referred to as the "command prompt," "terminal," or "CLI" (Command Line Interface), is your backstage pass to interacting with your computer in a way that goes beyond clicking and dragging. It's where the real magic happens.
 
@@ -19,7 +19,7 @@ The command line, often referred to as the "command prompt," "terminal," or "CLI
 - **Windows:** Click `Start`, then `All Programs` > `Accessories` > `Command Prompt`.
 
 &emsp;
-## 🪄 Command Line Operations
+## :page_with_curl: Command Line Operations
 
 Let's start with some essential commands to navigate this new territory:
 
@@ -51,17 +51,17 @@ Let's start with some essential commands to navigate this new territory:
 - In Windows: `rmdir /S NameOfDirectory`
 
 &emsp;
-## ✨ The Code Editor: Your Creative Playground
+## :sparkles: The Code Editor: Your Creative Playground
 
 Now that you've got the hang of the command line, let's introduce you to your trusty sidekick: the code editor. An Integrated Development Environment (IDE) is your go-to software for writing, debugging, and deploying code. Our favorite is Visual Studio Code. [Download it here](https://code.visualstudio.com/) and supercharge it with our [VetsWhoCode Extension Pack](https://marketplace.visualstudio.com/items?itemName=VetsWhoCode.vetswhocode-extension-pack).
 
 &emsp;
-## 🌐 Browser Matters
+## :globe_with_meridians: Browser Matters
 
 We recommend using Google Chrome for its powerful developer tools. [Download it here](https://www.google.com/chrome/) and embark on your web development journey.
 
 &emsp;
-## 🐙 Git and GitHub: The Developer's Playground
+## :octocat: Git and GitHub: The Developer's Playground
 
 Git and GitHub are essential for collaboration and version control. Here's how to get started:
 

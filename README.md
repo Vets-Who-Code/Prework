@@ -12,54 +12,54 @@ This condensed program has been meticulously crafted to acquaint you with the es
 
 This prework will take approximately 8 hours to complete.
 
-## 📚 Table of Contents
-- [Instructions for Success](#📋-instructions-for-success)
-- [Account Setup](#🛠️-account-setup)
+## :bookmark: Table of Contents
+- [Instructions for Success](#:memo:-instructions-for-success)
+- [Account Setup](#:wrench:-account-setup)
   - [LinkedIn For Veterans](#linkedin-for-veterans)
   - [GitHub](#github)
   - [Dev.to](#devto)
 - [Modules](modules)
   - [Command Line Basics: Your Gateway to Web Development Magic](modules/command-line-basics.md)
-    - [What's the Command Line?](modules/command-line-basics.md#💻-whats-the-command-line)
-    - [Command Line Operations](modules/command-line-basics.md#🪄-command-line-operations)
-    - [The Code Editor: Your Creative Playground](modules/command-line-basics.md#✨-the-code-editor-your-creative-playground)
-    - [Browser Matters](modules/command-line-basics.md#🌐-browser-matters)
-    - [Git and GitHub: The Developer's Playground](modules/command-line-basics.md#🐙-git-and-github-the-developers-playground)
+    - [What's the Command Line?](modules/command-line-basics.md#:computer:-whats-the-command-line)
+    - [Command Line Operations](modules/command-line-basics.md#:page_with_curl:-command-line-operations)
+    - [The Code Editor: Your Creative Playground](modules/command-line-basics.md#:sparkles:-the-code-editor-your-creative-playground)
+    - [Browser Matters](modules/command-line-basics.md#:globe_with_meridians:-browser-matters)
+    - [Git and GitHub: The Developer's Playground](modules/command-line-basics.md#:octocat:-git-and-github-the-developers-playground)
   - [HTML & CSS: The Dynamic Duo of Web Creation](./modules/html-css-basics.md#html--css-the-dynamic-duo-of-web-creation)
-    - [Setting Up Your Superhero Headquarters](./modules/html-css-basics.md#🚀-setting-up-your-superhero-headquarters)
-    - [Styling Your Webmasterpiece](./modules/html-css-basics.md#🎨-styling-your-webmasterpiece)
+    - [Setting Up Your Superhero Headquarters](./modules/html-css-basics.md#:dart:-setting-up-your-superhero-headquarters)
+    - [Styling Your Webmasterpiece](./modules/html-css-basics.md#:art:-styling-your-webmasterpiece)
   - [JavaScript: Unlocking Web Interactivity](modules/javascript-basics.md#javascript-your-gateway-to-web-interactivity-)
-    - [Preparing Your Toolkit](modules/javascript-basics.md#🚀-preparing-your-toolkit)
-    - [Your First JavaScript Code](modules/javascript-basics.md#✨-your-first-javascript-code)
-    - [Mastering the Basics](modules/javascript-basics.md#📚-mastering-the-basics)
-    - [Enhancing Your Web Pages](modules/javascript-basics.md#🪄-enhancing-your-web-pages)
+    - [Preparing Your Toolkit](modules/javascript-basics.md#:rocket:-preparing-your-toolkit)
+    - [Your First JavaScript Code](modules/javascript-basics.md#:sparkles:-your-first-javascript-code)
+    - [Mastering the Basics](modules/javascript-basics.md#:books:-mastering-the-basics)
+    - [Enhancing Your Web Pages](modules/javascript-basics.md#:construction:-enhancing-your-web-pages)
 
   - [Capstone: Unleash Your Web Development Skills](modules/capstone.md)
-    - [The Challenge](modules/capstone.md#🎯-the-challenge)
-    - [Delivery Options](modules/capstone.md#📦-delivery-options)
-    - [Ready to Impress?](modules/capstone.md#✅-ready-to-impress)
-    - [What's Next?](modules/capstone.md#🚀-whats-next)
-- [Additional Resources](#📄-resources)
+    - [The Challenge](modules/capstone.md#:dart:-the-challenge)
+    - [Delivery Options](modules/capstone.md#:outbox_tray:-delivery-options)
+    - [Ready to Impress?](modules/capstone.md#:white_check_mark:-ready-to-impress)
+    - [What's Next?](modules/capstone.md#:rocket:-whats-next)
+- [Additional Resources](#:books:-resources)
 
 &emsp;
-## 📋 Instructions for Success
+## :memo: Instructions for Success
 
 To make the most of your learning journey, follow these steps:
 
-1. [Complete Account Setup](#🛠️-account-setup)
+1. [Complete Account Setup](#:wrench:-account-setup)
 
-2. [Review the Modules](modules/command-line-basics.md#💻-whats-the-command-line)
+2. [Review the Modules](modules/command-line-basics.md#:computer:-whats-the-command-line)
 
 3. [Complete the Capstone](modules/capstone.md)
 
-4. [Apply to the Program](modules/capstone.md#✅-ready-to-impress)
+4. [Apply to the Program](modules/capstone.md#:white_check_mark:-ready-to-impress)
 
-5. [Review Additional Resources](#📄-resources) &ensp;_(Optional but highly encouraged)_
+5. [Review Additional Resources](#:books:-resources) &ensp;_(Optional but highly encouraged)_
 
 If you have any questions or encounter any issues during the submission process, don't hesitate to reach out to [hello@vetswhocode.io](mailto:hello@vetswhocode.io) for assistance.
 
 &emsp;
-## 🛠️ Account Setup
+## :wrench: Account Setup
 
 Before we begin the technical coursework, let's ensure you have all the essential accounts to empower your software engineering journey. These accounts will be your keys to storing projects, solving problems, prototyping, networking, writing, and gaining inspiration from fellow engineers. You'll also gain access to some fantastic projects from others in the industry.
 
@@ -88,7 +88,7 @@ Before we begin the technical coursework, let's ensure you have all the essentia
 **Unleash the Power of Writing:** At VWC, we believe that long-form writing is a powerful tool to showcase your expertise and communicate effectively. Use Dev.to to document valuable information, expand your knowledge, and stand out in the tech industry.
 
 &emsp;
-## 📄 Resources
+## :books: Resources
 
 If you want to learn a little bit more about these things or just want to be more prepared, these are our highly recommended resources.
 
@@ -100,5 +100,5 @@ If you want to learn a little bit more about these things or just want to be mor
 - [Getting To know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
 
 &emsp;
-## 🌟 Your journey begins now!
+## :chart_with_upwards_trend: Your journey begins now!
 Dive into these essential platforms, connect with the community, and let your software engineering adventure unfold!

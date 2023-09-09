@@ -8,7 +8,7 @@
 
 JavaScript (JS) is a powerful scripting language that breathes life into websites, making them interactive and dynamic. Let's explore this fascinating world!
 
-## 🚀 Preparing Your Toolkit
+## :rocket: Preparing Your Toolkit
 
 Before we embark on our JavaScript journey, make sure you have the following tools:
 
@@ -16,7 +16,7 @@ Before we embark on our JavaScript journey, make sure you have the following too
 
 2. **Web Browser:** Your window into the web. Popular browsers like Chrome, Firefox, or Edge will be your stage.
 
-## ✨ Your First JavaScript Code
+## :sparkles: Your First JavaScript Code
 
 1. **Create an HTML File:** Fire up your text editor, create a new file, and save it with a .html extension. This is where our coding adventure begins:
 
@@ -40,7 +40,7 @@ Before we embark on our JavaScript journey, make sure you have the following too
 2. **Adding JavaScript:** Within the `<script>` tags, we can write JavaScript code. In this example, we've created a script that changes text when a button is clicked.
 
 
-## 📚 Mastering the Basics
+## :books: Mastering the Basics
 As you delve deeper into JavaScript, you'll discover these fundamental concepts:
 
 * Variables: Like containers to store values. You can declare them by using var, let, or const keywords. While var and let can have interchangeable values, the value in const is not interchangeable. Examples:
@@ -164,10 +164,10 @@ delete person.gender;
 console.log(person.gender); // Output: undefined
 ```
 
-## 🪄 Enhancing Your Web Pages
+## :construction: Enhancing Your Web Pages
 You can also keep your JavaScript code in separate files and link them to your HTML using the `<script>` tag. This keeps your code organized and easy to manage.
 
 &emsp;
 <hr />
 
-**Enjoy exploring the endless possibilities of web interactivity. 🌐🚀🌟**
+**Enjoy exploring the endless possibilities of web interactivity. :rocket:**

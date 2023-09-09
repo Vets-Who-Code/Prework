@@ -6,10 +6,10 @@
 
 <h1 align="center">Capstone: Unleash Your Web Development Skills</h1>
 
-Welcome, to the culmination of your prework journey! 🌟 It's time to put your newfound skills to the test with a capstone project that allows you to shine and show us what you're made of. 
+Welcome, to the culmination of your prework journey! It's time to put your newfound skills to the test with a capstone project that allows you to shine and show us what you're made of. 
 
 &emsp;
-## 🎯 The Challenge
+## :dart: The Challenge
 
 Your mission, should you choose to accept it, is to create a captivating website that introduces yourself to the us. Using the dynamic trio of HTML, CSS, and JavaScript, craft an impressive creation that reflects your personality and aspirations.
 
@@ -23,7 +23,7 @@ We're not just interested in code; we want to see your creativity and ingenuity 
 
 
 &emsp;
-## 📦 Delivery Options
+## :outbox_tray: Delivery Options
 
 To share your creation with us, you have two options:
 
@@ -40,7 +40,7 @@ You can upload your code to one of the following platforms, which will provide a
 Alternatively, you may choose to use a code repository. In this case, ensure that your README.md document offers clear instructions on running your code and consider including screenshots to illustrate your project's functionality and design.
 
 &emsp;
-##  ✅ Ready to Impress?
+##  :white_check_mark: Ready to Impress?
 
 1. Visit the [Vets Who Code application page](https://vetswhocode.io/apply).
 
@@ -57,7 +57,7 @@ Alternatively, you may choose to use a code repository. In this case, ensure tha
 4. Submit your application.
 
 &emsp;
-## 🚀 What's Next?
+## :rocket: What's Next?
 
 Once you've submitted your capstone project through the [Vets Who Code application page](https://vetswhocode.io/apply), our team will review your submission. This is your opportunity to shine and demonstrate the skills you've acquired during this course.
 

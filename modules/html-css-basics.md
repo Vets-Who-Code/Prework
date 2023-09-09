@@ -8,7 +8,7 @@
 
 HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are the dynamic duo that powers the web. They're like Batman and Robin for websites, and together, they build the online world we know and love. Let's dive into this exciting partnership!
 
-## 🚀 Setting Up Your Superhero Headquarters
+## :dart: Setting Up Your Superhero Headquarters
 
 1. **Environment Setup:** To craft HTML and CSS wonders, you need a trusty text editor and a web browser. Choose your favorite text editor – it could be Notepad, Sublime Text, Atom, or even the mighty VS Code. For rapid deployment, try online editors like [CodePen](https://codepen.io/) or [JSFiddle](https://jsfiddle.net/).
 
@@ -48,7 +48,7 @@ HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are the dynami
 </ul>
 ```
 
-## 🎨 Styling Your Webmasterpiece
+## :art: Styling Your Webmasterpiece
 
 1. **Crafting a CSS Arsenal:** Create a new file with a .css extension. In this file, you will define the styles for your HTML document using CSS rules. Here's a glimpse of what you can do with CSS:
 
@@ -96,4 +96,4 @@ These rules change the font family, background color, font size, and text color 
 &emsp;
 <hr />
 
-**Now, you're ready to create web wonders with HTML and CSS, turning the ordinary into the extraordinary! 🦸‍♂️💥**
+**Now, you're ready to create web wonders with HTML and CSS, turning the ordinary into the extraordinary! :sparkles:**
