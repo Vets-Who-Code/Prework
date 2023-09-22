@@ -1,4 +1,10 @@
-# MacOS Tooling
+<div align="center">
+  <a href="https://vetswhocode.io">
+    <img src="../img/vwc-logo.png" alt="Vets Who Code" width="400px" />
+  </a>
+</div>
+
+<h1 align="center">MacOS Tooling</h1>
 
 [Install Homebrew](https://brew.sh/)
 
