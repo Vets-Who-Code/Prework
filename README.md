@@ -39,7 +39,7 @@ This prework will take approximately 8 hours to complete.
 
 To make the most of your learning journey, follow these steps:
 
-1. [Complete Account Setup](#:wrench:-account-setup)
+1. [Complete Account Setup](account-setup.md)
 
 2. [Review the Modules](modules/command-line-basics.md#:computer:-whats-the-command-line)
 
@@ -47,51 +47,12 @@ To make the most of your learning journey, follow these steps:
 
 4. [Apply to the Program](modules/capstone.md#:white_check_mark:-ready-to-impress)
 
-5. [Review Additional Resources](#:books:-resources) &ensp;_(Optional but highly encouraged)_
+5. [Review Additional Resources](resources.md) &ensp;_(Optional but highly encouraged)_
 
 If you have any questions or encounter any issues during the submission process, don't hesitate to reach out to [hello@vetswhocode.io](mailto:hello@vetswhocode.io) for assistance.
 
-&emsp;
-## 🛠️ Account Setup
-
-Before we begin the technical coursework, let's ensure you have all the essential accounts to empower your software engineering journey. These accounts will be your keys to storing projects, solving problems, prototyping, networking, writing, and gaining inspiration from fellow engineers. You'll also gain access to some fantastic projects from others in the industry.
-
-### [LinkedIn For Veterans](https://socialimpact.linkedin.com/programs/veterans/premiumform)
-
-**Unlock Your Potential with LinkedIn Premium:** LinkedIn Premium is your ticket to an enhanced LinkedIn experience. This subscription-based service offers exclusive features not available on the free LinkedIn platform, including the ability to see who's viewed your profile, send unlimited InMails to recruiters, and access premium content and events.
-
-**For the U.S. Military Community:** Whether you're active-duty, a veteran, or a military spouse, you're eligible for one year of LinkedIn Premium as part of this program. This includes unlimited access to thousands of hours of courses through LinkedIn Learning.
-
-**Network and Thrive:** LinkedIn is your gateway to connecting with professionals who share your passions and building relationships with potential employers. Join our dedicated [LinkedIn Group](https://www.linkedin.com/groups/14143071/) to expand your network even further!
-
-### [GitHub](https://github.com/)
-
-**Code Hosting and Collaboration:** GitHub is where the magic of version control and collaboration happens. Here, you and your peers can seamlessly work together on projects from anywhere in the world.
-
-**Explore Our GitHub Organization:** Dive into our [GitHub organization](https://github.com/Vets-Who-Code) and become an integral part of our vibrant coding community.
-
-### [Dev.to](https://dev.to/)
-
-**The Starting Point for Aspiring Developers:** Are you looking to embark on a new career in development or eager to expand your knowledge as an aspiring developer? Dev.to is your ideal starting point.
-
-**A Community of Developers:** Dev.to is an online community where developers from diverse backgrounds come together to share their experiences and expertise. It's the perfect hub for anyone interested in software development to connect with like-minded individuals actively shaping the industry.
-
-**Discover Opportunities:** Explore job listings, engage with recruiters, and connect with companies seeking individuals with your skillset. Stay updated on the latest technologies, gain insights into optimizing your career, and share tips for success.
-
-**Unleash the Power of Writing:** At VWC, we believe that long-form writing is a powerful tool to showcase your expertise and communicate effectively. Use Dev.to to document valuable information, expand your knowledge, and stand out in the tech industry.
-
-&emsp;
-## 📑 Resources
-
-If you want to learn a little bit more about these things or just want to be more prepared, these are our highly recommended resources.
-
-- [Windows Tooling](tooling-guides/windows-tooling.md)
-- [MacOS Tooling](tooling-guides/windows-tooling.md)
-- [Front End Masters Handbook](https://frontendmasters.com/guides/front-end-handbook/2019/)
-- [Mozilla MDN](https://developer.mozilla.org/en-US/)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [Getting To know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
 
 &emsp;
 ## :chart_with_upwards_trend: Your journey begins now!
-Dive into these essential platforms, connect with the community, and let your software engineering adventure unfold!
+
+Dive into these essential platforms, connect with the community, and let your software engineering adventure unfold! Embrace the journey of learning and discovery in JavaScript, TypeScript, React and Next.js. Each platform offers a unique landscape filled with endless opportunities for innovation and creativity. Don't just write code, but weave stories through it, solving real-world problems and making an impact. Engage with the vibrant community of developers, where collaboration sparks breakthroughs and shared knowledge fuels growth. Remember, every challenge you overcome not only enhances your skills but also brings you one step closer to your ambitious goals with Vets Who Code. This is more than a learning experience; it's a path to transforming your passion into tangible success and making a difference in the lives of many. So, gear up, stay curious, and let your journey in software engineering be a beacon of inspiration and change!"
