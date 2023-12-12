@@ -9,7 +9,7 @@
 If you want to learn a little bit more about these things or just want to be more prepared, these are our highly recommended resources.
 
 - [Windows Tooling](tooling-guides/windows-tooling.md)
-- [MacOS Tooling](tooling-guides/windows-tooling.md)
+- [MacOS Tooling](tooling-guides/MacOS-tooling.md)
 - [Front End Masters Handbook](https://frontendmasters.com/guides/front-end-handbook/2019/)
 - [Mozilla MDN](https://developer.mozilla.org/en-US/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
