@@ -1,15 +1,15 @@
 ## 📑 Resources
 <div align="center">
   <a href="https://vetswhocode.io">
-    <img src="../img/vwc-logo.png" alt="Vets Who Code" width="400px" />
+    <img src="./img/vwc-logo.png" alt="Vets Who Code" width="400px" />
   </a>
 </div>
 
 <h1 align="center">More Resources</h1>
 If you want to learn a little bit more about these things or just want to be more prepared, these are our highly recommended resources.
 
-- [Windows Tooling](tooling-guides/Windows-tooling.md)
-- [MacOS Tooling](tooling-guides/MacOS-tooling.md)
+- [Windows Tooling](tooling-guides/Windows-Tooling.md)
+- [MacOS Tooling](tooling-guides/MacOS-Tooling.md)
 - [Front End Masters Handbook](https://frontendmasters.com/guides/front-end-handbook/2019/)
 - [Mozilla MDN](https://developer.mozilla.org/en-US/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
