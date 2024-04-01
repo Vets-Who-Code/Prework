@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">Command Line Basics: Your Gateway to Web Development Magic</h1>
+<h1 align="center">Command Line Basics</h1>
 
 In this module, we'll dive into the fundamentals of the command line, a powerful tool that will empower you to work your coding wizardry.
 
