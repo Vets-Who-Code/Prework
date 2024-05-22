@@ -39,7 +39,7 @@ This prework will take approximately 8 hours to complete.
 
 To make the most of your learning journey, follow these steps:
 
-1. [Complete Account Setup](account-setup.md)
+1. [Complete Account Setup](account-set-up.md)
 
 2. [Review the Modules](modules/command-line-basics.md#:computer:-whats-the-command-line)
 
