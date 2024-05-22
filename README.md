@@ -21,7 +21,7 @@ This prework will take approximately 8 hours to complete.
     - [Git and GitHub: The Developer's Playground](modules/command-line-basics.md#:octocat:-git-and-github-the-developers-playground)
   - [HTML & CSS: The Dynamic Duo of Web Creation](./modules/html-css-basics.md#html--css-the-dynamic-duo-of-web-creation)
     - [Setting Up Your Superhero Headquarters](./modules/html-css-basics.md#:dart:-setting-up-your-superhero-headquarters)
-    - [Styling Your Webmasterpiece](./modules/html-css-basics.md#:art:-styling-your-webmasterpiece)
+    - [Styling Your Web Masterpiece](./modules/html-css-basics.md#:art:-styling-your-webmasterpiece)
   - [JavaScript: Unlocking Web Interactivity](modules/javascript-basics.md#javascript-your-gateway-to-web-interactivity-)
     - [Preparing Your Toolkit](modules/javascript-basics.md#:rocket:-preparing-your-toolkit)
     - [Your First JavaScript Code](modules/javascript-basics.md#:sparkles:-your-first-javascript-code)
