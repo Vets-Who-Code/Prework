@@ -17,9 +17,12 @@ This prework will take approximately 8 hours to complete.
 - [Command Line Basics: Your Gateway to Web Development Magic](modules/command-line-basics.md)
   - [What's the Command Line?](modules/command-line-basics.md#:computer:-whats-the-command-line)
   - [Command Line Operations](modules/command-line-basics.md#:page_with_curl:-command-line-operations)
-  - [The Code Editor: Your Creative Playground](modules/command-line-basics.md#:sparkles:-the-code-editor-your-creative-playground)
-  - [Browser Matters](modules/command-line-basics.md#:globe_with_meridians:-browser-matters)
-  - [Git and GitHub: The Developer's Playground](modules/command-line-basics.md#:octocat:-git-and-github-the-developers-playground)
+
+- [Mission Control: Code Editor](modules/command-line-basics.md#:sparkles:-the-code-editor-your-creative-playground)
+
+- [Browser Matters](modules/command-line-basics.md#:globe_with_meridians:-browser-matters)
+
+- [Git and GitHub: Deployment and Collaboration Hub](modules/command-line-basics.md#:octocat:-git-and-github-the-developers-playground)
 
 - [HTML & CSS: The Dynamic Duo of Web Creation](./modules/html-css-basics.md#html--css-the-dynamic-duo-of-web-creation)
   - [Setting Up Your Superhero Headquarters](./modules/html-css-basics.md#:dart:-setting-up-your-superhero-headquarters)
@@ -28,7 +31,7 @@ This prework will take approximately 8 hours to complete.
 - [JavaScript: Unlocking Web Interactivity](modules/javascript-basics.md#javascript-your-gateway-to-web-interactivity)
   - [Preparing Your Toolkit](modules/javascript-basics.md#:rocket:-preparing-your-toolkit)
   - [Your First JavaScript Code](modules/javascript-basics.md#:sparkles:-your-first-javascript-code)
-  - [Mastering the Basics](modules/javascript-basics.md#:books:-mastering-the-basics)
+  - [Learning the Basics](modules/javascript-basics.md#:books:-mastering-the-basics)
   - [Enhancing Your Web Pages](modules/javascript-basics.md#:construction:-enhancing-your-web-pages)
 
 - [Capstone: Unleash Your Web Development Skills](modules/capstone.md)
