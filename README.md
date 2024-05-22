@@ -22,7 +22,7 @@ This prework will take approximately 8 hours to complete.
 
 - [Browser Essentials for Developers](modules/browser-essentials.md#🌐-browser-essentials)
 
-- [Git and GitHub: Deployment and Collaboration Hub](modules/github-basics.md 🐙)
+- [Git and GitHub: Deployment and Collaboration Hub](modules/github-basics.md)
 
 - [HTML & CSS: The Dynamic Duo of Web Creation](./modules/html-css-basics.md#html--css-the-dynamic-duo-of-web-creation)
   - [Setting Up Your Superhero Headquarters](./modules/html-css-basics.md#🎯-setting-up-your-superhero-headquarters)
