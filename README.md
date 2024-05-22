@@ -1,3 +1,5 @@
+Certainly! Here's the improved main README for the Vets Who Code (VWC) Prework:
+
 <div align="center">
   <a href="https://vetswhocode.io">
     <img src="./img/vwc-logo.png" alt="Vets Who Code" width="400px" />
@@ -15,30 +17,28 @@ This prework will take approximately 8 hours to complete.
 ## 📚 Modules
 
 - [Command Line Basics: Your Gateway to Web Development Magic](modules/command-line-basics.md)
-  - [What's the Command Line?](modules/command-line-basics.md#:computer:-whats-the-command-line)
-  - [Command Line Operations](modules/command-line-basics.md#:page_with_curl:-command-line-operations)
 
-- [Mission Control: Code Editor](modules/command-line-basics.md#:sparkles:-the-code-editor-your-creative-playground)
+- [Mission Control: Code Editor](modules/code-editor.md#🚀-mission-control-code-editor)
 
-- [Browser Matters](modules/command-line-basics.md#:globe_with_meridians:-browser-matters)
+- [Browser Essentials for Developers](modules/browser-essentials.md#🌐-browser-essentials)
 
-- [Git and GitHub: Deployment and Collaboration Hub](modules/command-line-basics.md#:octocat:-git-and-github-the-developers-playground)
+- [Git and GitHub: Deployment and Collaboration Hub](modules/github-basics.md 🐙)
 
 - [HTML & CSS: The Dynamic Duo of Web Creation](./modules/html-css-basics.md#html--css-the-dynamic-duo-of-web-creation)
-  - [Setting Up Your Superhero Headquarters](./modules/html-css-basics.md#:dart:-setting-up-your-superhero-headquarters)
-  - [Styling Your Web Masterpiece](./modules/html-css-basics.md#:art:-styling-your-webmasterpiece)
+  - [Setting Up Your Superhero Headquarters](./modules/html-css-basics.md#🎯-setting-up-your-superhero-headquarters)
+  - [Styling Your Web Masterpiece](./modules/html-css-basics.md#🎨-styling-your-web-masterpiece)
 
 - [JavaScript: Unlocking Web Interactivity](modules/javascript-basics.md#javascript-your-gateway-to-web-interactivity)
-  - [Preparing Your Toolkit](modules/javascript-basics.md#:rocket:-preparing-your-toolkit)
-  - [Your First JavaScript Code](modules/javascript-basics.md#:sparkles:-your-first-javascript-code)
-  - [Learning the Basics](modules/javascript-basics.md#:books:-mastering-the-basics)
-  - [Enhancing Your Web Pages](modules/javascript-basics.md#:construction:-enhancing-your-web-pages)
+  - [Preparing Your Toolkit](modules/javascript-basics.md#🚀-preparing-your-toolkit)
+  - [Your First JavaScript Code](modules/javascript-basics.md#✨-your-first-javascript-code)
+  - [Learning the Basics](modules/javascript-basics.md#📚-mastering-the-basics)
+  - [Enhancing Your Web Pages](modules/javascript-basics.md#🚧-enhancing-your-web-pages)
 
 - [Capstone: Unleash Your Web Development Skills](modules/capstone.md)
-  - [The Challenge](modules/capstone.md#:dart:-the-challenge)
-  - [Delivery Options](modules/capstone.md#:outbox_tray:-delivery-options)
-  - [Ready to Impress?](modules/capstone.md#:white_check_mark:-ready-to-impress)
-  - [What's Next?](modules/capstone.md#:rocket:-whats-next)
+  - [The Challenge](modules/capstone.md#🎯-the-challenge)
+  - [Delivery Options](modules/capstone.md#📤-delivery-options)
+  - [Ready to Impress?](modules/capstone.md#✅-ready-to-impress)
+  - [What's Next?](modules/capstone.md#🚀-whats-next)
 
 &emsp;
 
@@ -48,11 +48,11 @@ To make the most of your learning journey, follow these steps:
 
 1. [Complete Account Setup](account-set-up.md)
 
-2. [Review the Modules](modules/command-line-basics.md#:computer:-whats-the-command-line)
+2. [Review the Modules](#-modules)
 
 3. [Complete the Capstone](modules/capstone.md)
 
-4. [Apply to the Program](modules/capstone.md#:white_check_mark:-ready-to-impress)
+4. [Apply to the Program](modules/capstone.md#✅-ready-to-impress)
 
 5. [Review Additional Resources](resources.md) &ensp;_(Optional but highly encouraged)_
 

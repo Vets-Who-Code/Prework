@@ -1,3 +1,5 @@
+Certainly! Here is the improved and detailed version of the "MacOS Tooling" section without references to freeCodeCamp:
+
 <div align="center">
   <a href="https://vetswhocode.io">
     <img src="../img/vwc-logo.png" alt="Vets Who Code" width="400px" />
@@ -6,30 +8,88 @@
 
 <h1 align="center">MacOS Tooling</h1>
 
-[Install Homebrew](https://brew.sh/)
+## Setting Up Your Development Environment
 
-Homebrew is a [package manager](https://medium.freecodecamp.org/javascript-package-managers-101-9afd926add0a) that's going to make it simple to install and manage applications.
+### Install Homebrew
 
-Run the following line in Terminal.app and then never use Terminal again. *(__Note:__ this is recommended, but not required, VSCode comes with a terminal built-in, you can skip to installing that if you get stuck)*
+Homebrew is a package manager that simplifies the installation and management of applications on macOS. To get started, open Terminal.app and run the following command:
 
-`brew cask install iterm2`
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
-Now you can open iTerm2.app.
+### Install iTerm2
 
-Next, let's install the best code editor in the galaxy! Visual Studio Code! 👏🏻
+iTerm2 is a powerful alternative to the default Terminal.app, providing better features and customization options. Install iTerm2 using Homebrew:
 
-`brew install visual-studio-code`
+```bash
+brew install --cask iterm2
+```
 
-possible 🐞 : You may need to enter `brew cask install visual-studio-code`
+Now you can open iTerm2 from your Applications folder.
 
-Now I'm sure you want to make your code editor more comfy, so checkout these two podcast episodes [here](https://syntax.fm/show/012/why-is-everyone-switching-to-vs-code) and [here](https://syntax.fm/show/048/vs-code-round-two) for the best tips and extensions out there. The podcast is great, but you can just read the show notes.
+### Install Visual Studio Code
 
-## Keyboard Shortcuts
+Next, let's install the best code editor in the galaxy: Visual Studio Code! Use the following command to install it via Homebrew:
 
-Push yourself to use shortcuts to improve productivity. [Here](https://medium.com/productivity-freak/macos-keyboard-shortcuts-41c8184f65a6) are some good shortcuts, but you'll also want to install CheatSheet.App so that you can see all the shortcuts every app you use has to offer.
+```bash
+brew install --cask visual-studio-code
+```
 
-`brew cask install cheatsheet`
+In case you encounter any issues, you can alternatively use:
 
-Then hold down ⌘ for a bit, boom! shortcuts.
+```bash
+brew install visual-studio-code
+```
 
-Good luck Mac users!
+### Customize Visual Studio Code
+
+To make your coding environment more comfortable and productive, check out these two podcast episodes for the best tips and extensions:
+- [Why is Everyone Switching to VS Code](https://syntax.fm/show/012/why-is-everyone-switching-to-vs-code)
+- [VS Code Round Two](https://syntax.fm/show/048/vs-code-round-two)
+
+The podcasts are great, but you can also just read the show notes for a quick summary.
+
+### Install Essential Extensions
+
+Enhance your VS Code experience with these essential extensions:
+
+- **Prettier**: Code formatter.
+- **ESLint**: Linting tool for JavaScript.
+- **GitLens**: Supercharge the built-in Git capabilities.
+- **Bracket Pair Colorizer**: Colorize matching brackets.
+
+### Keyboard Shortcuts
+
+Push yourself to use shortcuts to improve productivity. Here are some great resources for mastering macOS keyboard shortcuts:
+- [MacOS Keyboard Shortcuts](https://medium.com/productivity-freak/macos-keyboard-shortcuts-41c8184f65a6)
+
+Additionally, install CheatSheet.app to see all the shortcuts every app you use has to offer:
+
+```bash
+brew install --cask cheatsheet
+```
+
+After installing, hold down the ⌘ key for a bit, and boom! You'll see a list of shortcuts.
+
+### Additional Tools
+
+Consider installing the following tools to further enhance your development environment:
+
+- **Node.js and npm**: JavaScript runtime and package manager:
+  ```bash
+  brew install node
+  ```
+- **Git**: Version control system:
+  ```bash
+  brew install git
+  ```
+- **Zsh and Oh My Zsh**: Improved shell and its configuration framework:
+  ```bash
+  brew install zsh
+  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  ```
+
+## Conclusion
+
+With these tools and tips, you're well on your way to creating a powerful and efficient macOS development environment. Good luck, Mac users, and happy coding! 🚀
