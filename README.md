@@ -1,5 +1,3 @@
-Certainly! Here's the improved main README for the Vets Who Code (VWC) Prework:
-
 <div align="center">
   <a href="https://vetswhocode.io">
     <img src="./img/vwc-logo.png" alt="Vets Who Code" width="400px" />
