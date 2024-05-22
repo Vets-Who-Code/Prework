@@ -10,7 +10,7 @@ If you want to learn a little bit more about these things or just want to be mor
 
 - [Windows Tooling](tooling-guides/Windows-Tooling.md)
 - [MacOS Tooling](tooling-guides/MacOS-Tooling.md)
-- [Front End Masters Handbook](https://frontendmasters.com/guides/front-end-handbook/2019/)
+- [Front End Masters Handbook](https://frontendmasters.com/guides/front-end-handbook/2024/)
 - [Mozilla MDN](https://developer.mozilla.org/en-US/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [Getting To know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
