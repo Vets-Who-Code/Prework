@@ -126,16 +126,7 @@ Work through each module in order. Take your time, do the exercises, and don't m
 
 ## Submission
 
-When your portfolio is complete and deployed:
-
-**Email:** hello@vetswhocode.io
-
-**Subject:** Pre-Work Submission: [Your Name]
-
-**Include:**
-- Your live portfolio URL
-- Your GitHub repository URL
-- Brief note about which features you implemented
+When your portfolio is complete and deployed complete your application form and apply.
 
 ---
 
