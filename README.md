@@ -5,7 +5,6 @@
 </div>
 
 <h1 align="center">Prework</h1>
-# Phase 0: The Gate
 
 **Pre-Work for Vets Who Code**
 
