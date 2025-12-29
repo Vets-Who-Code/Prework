@@ -8,6 +8,8 @@ Certainly! Here is the improved version of the "Windows Tooling" section focused
 
 <h1 align="center">Windows Tooling</h1>
 
+This guide provides quick setup instructions for Windows users. For detailed learning and exercises, see the **[Prework Modules](../modules/README.md)**.
+
 Windows has significantly improved for web development, and with the right setup, you can create a powerful and efficient development environment.
 
 ## Setting Up Your Development Environment
@@ -44,20 +46,37 @@ Or download it directly from the [Visual Studio Code website](https://code.visua
 
 ### Configure VSCode for WSL
 
+**For complete VS Code setup instructions, see [Module 2: Code Editor Setup](../modules/code-editor-setup.md).**
+
 1. **Open VSCode:** Launch Visual Studio Code.
 2. **Open Terminal:** Press `Ctrl + ` to open the terminal.
 3. **Open Command Palette:** Press `Ctrl + Shift + P` to open the command palette.
 4. **Select Default Shell:** Type `Select Default Shell` and choose `WSL Bash` from the options.
 5. **Open New Terminal:** Click on the `+` icon in the terminal window to open a new WSL Bash terminal.
 
-### Install Essential Extensions
+### Install VetsWhoCode Extensions
 
-Enhance your VSCode experience with these essential extensions:
+The VetsWhoCode Extension Pack includes everything you need for our curriculum:
 
-- **Prettier**: Code formatter.
-- **ESLint**: Linting tool for JavaScript.
-- **GitLens**: Supercharge the built-in Git capabilities.
-- **Bracket Pair Colorizer**: Colorize matching brackets.
+1. Open VS Code
+2. Press `Ctrl + Shift + X` to open Extensions
+3. Search for **"VetsWhoCode Extension Pack"**
+4. Click Install
+
+This pack includes:
+- **Prettier**: Code formatter
+- **ESLint**: Linting tool for JavaScript
+- **GitLens**: Supercharge the built-in Git capabilities
+- **Live Server**: Local development server with live reload
+- **Auto Rename Tag**: Automatically rename paired HTML tags
+- And more!
+
+#### Additional VWC Extension
+
+Also install the **Vets Who Code HashFlag Extension** to proudly display your affiliation:
+
+1. Search for "HashFlag" in Extensions
+2. Click Install
 
 ### Keyboard Shortcuts
 

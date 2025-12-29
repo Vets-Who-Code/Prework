@@ -8,6 +8,8 @@ Certainly! Here is the improved and detailed version of the "MacOS Tooling" sect
 
 <h1 align="center">MacOS Tooling</h1>
 
+This guide provides quick setup instructions for macOS users. For detailed learning and exercises, see the **[Prework Modules](../modules/README.md)**.
+
 ## Setting Up Your Development Environment
 
 ### Install Homebrew
@@ -44,20 +46,39 @@ brew install visual-studio-code
 
 ### Customize Visual Studio Code
 
-To make your coding environment more comfortable and productive, check out these two podcast episodes for the best tips and extensions:
+**For complete VS Code setup instructions, see [Module 2: Code Editor Setup](../modules/code-editor-setup.md).**
+
+#### Install VetsWhoCode Extensions
+
+The VetsWhoCode Extension Pack includes everything you need for our curriculum:
+
+1. Open VS Code
+2. Press `Cmd + Shift + X` to open Extensions
+3. Search for **"VetsWhoCode Extension Pack"**
+4. Click Install
+
+This pack includes:
+- **Prettier**: Code formatter
+- **ESLint**: Linting tool for JavaScript
+- **GitLens**: Supercharge the built-in Git capabilities
+- **Live Server**: Local development server with live reload
+- **Auto Rename Tag**: Automatically rename paired HTML tags
+- And more!
+
+#### Additional VWC Extension
+
+Also install the **Vets Who Code HashFlag Extension** to proudly display your affiliation:
+
+1. Search for "HashFlag" in Extensions
+2. Click Install
+
+#### Additional Resources
+
+To make your code editor more comfortable, check out these two podcast episodes for the best tips and extensions:
 - [Why is Everyone Switching to VS Code](https://syntax.fm/show/012/why-is-everyone-switching-to-vs-code)
 - [VS Code Round Two](https://syntax.fm/show/048/vs-code-round-two)
 
 The podcasts are great, but you can also just read the show notes for a quick summary.
-
-### Install Essential Extensions
-
-Enhance your VS Code experience with these essential extensions:
-
-- **Prettier**: Code formatter.
-- **ESLint**: Linting tool for JavaScript.
-- **GitLens**: Supercharge the built-in Git capabilities.
-- **Bracket Pair Colorizer**: Colorize matching brackets.
 
 ### Keyboard Shortcuts
 

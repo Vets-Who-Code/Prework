@@ -1,10 +1,4 @@
-<div align="center">
-  <a href="https://vetswhocode.io">
-    <img src="./img/vwc-logo.png" alt="Vets Who Code" width="400px" />
-  </a>
-</div>
-
-<h1 align="center">Prework</h1>
+# Phase 0: The Gate
 
 **Pre-Work for Vets Who Code**
 
@@ -24,7 +18,7 @@ We're glad you're here. Choosing to pursue software engineering is a significant
 
 Let's talk about what's ahead.
 
-The Hashflag Stack is an intensive 17-week software engineering accelerator designed to take you from foundations to production AI engineer. The pace is challenging and the expectations are high.
+The Hashflag Stack is an intensive 17-week program designed to take you from foundations to production AI engineer. The pace is challenging, the expectations are high, and the results speak for themselves—graduates are securing roles in the $85-130K range.
 
 To make the most of the program, you'll need a solid foundation before Day 1. That's what this pre-work provides.
 
@@ -86,19 +80,6 @@ We're not trying to make things harder than they need to be. We're trying to ens
 
 ---
 
-## Before You Begin
-
-### Quick Setup Guides
-
-Need to set up your development environment? Start here:
-
-- **[MacOS Tooling Guide](tooling-guides/MacOS-Tooling.md)** - Install Homebrew, iTerm2, VS Code, and VWC extensions
-- **[Windows Tooling Guide](tooling-guides/Windows-Tooling.md)** - Install WSL, VS Code, and VWC extensions
-
-These guides will get you up and running quickly. For detailed learning, continue with the modules below.
-
----
-
 ## Pre-Work Overview
 
 ### Time Commitment
@@ -111,13 +92,12 @@ Most people complete it in 2-4 weeks, working 10-20 hours per week. Some push th
 
 | # | Module | Hours | What You'll Build |
 |---|--------|-------|-------------------|
-| 0 | [Browser Dev Tools](modules/browser-dev-tools.md) | 1-2 | Browser setup (optional) |
-| 1 | [Command Line Fundamentals](modules/command-line-fundamentals.md) | 8-10 | Command line proficiency |
-| 2 | [Code Editor Setup](modules/code-editor-setup.md) | 4-6 | VS Code with VWC extensions |
-| 3 | [Git & GitHub](modules/git-and-github.md) | 8-10 | Version control and collaboration |
-| 4 | [HTML & CSS Fundamentals](modules/html-css-fundamentals.md) | 12-16 | Building and styling web pages |
-| 5 | [JavaScript Fundamentals](modules/javascript-fundamentals.md) | 10-14 | Logic, DOM manipulation, interactivity |
-| 6 | [Capstone: Your Portfolio](modules/capstone.md) | 8-12 | Everything comes together |
+| 1 | [Terminal & Shell](01-terminal.md) | 8-10 | Command line proficiency |
+| 2 | [VS Code Setup](02-vscode.md) | 4-6 | Your development environment |
+| 3 | [Git & GitHub](03-git.md) | 8-10 | Version control and collaboration |
+| 4 | [HTML & CSS](04-html-css.md) | 12-16 | Building and styling web pages |
+| 5 | [JavaScript Programming](05-javascript.md) | 10-14 | Logic, DOM manipulation, interactivity |
+| 6 | [Capstone: Your Portfolio](06-capstone.md) | 8-12 | Everything comes together |
 
 ### The Final Deliverable
 
@@ -131,17 +111,24 @@ This portfolio will include specific features that demonstrate what you've learn
 
 ## Start Your Journey
 
-Ready to begin? Start with [Module 1: Command Line Fundamentals](modules/command-line-fundamentals.md).
+Ready to begin? Start with [Module 1: Terminal & Shell](01-terminal.md).
 
 Work through each module in order. Take your time, do the exercises, and don't move on until you're confident with the material.
-
-**See the complete learning path:** [modules/README.md](modules/README.md)
 
 ---
 
 ## Submission
 
-When your portfolio is complete and deployed complete your application form and apply.
+When your portfolio is complete and deployed:
+
+**Email:** hello@vetswhocode.io
+
+**Subject:** Pre-Work Submission: [Your Name]
+
+**Include:**
+- Your live portfolio URL
+- Your GitHub repository URL
+- Brief note about which features you implemented
 
 ---
 
