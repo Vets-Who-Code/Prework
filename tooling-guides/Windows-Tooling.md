@@ -1,5 +1,3 @@
-Certainly! Here is the improved version of the "Windows Tooling" section focused exclusively on setting up a development environment on Windows:
-
 <div align="center">
   <a href="https://vetswhocode.io">
     <img src="../img/vwc-logo.png" alt="Vets Who Code" width="400px" />
@@ -34,6 +32,8 @@ WSL allows you to run a Linux distribution within Windows, providing access to t
    sudo apt upgrade
    ```
 
+> **Keep all your work inside Ubuntu.** Store projects in your Ubuntu home folder (`~`, e.g. `~/code`), not in `C:\Users\...` (`/mnt/c/...`). Files on the Windows side are slow to work with from Linux and can cause permission and line-ending problems.
+
 ### Install Visual Studio Code
 
 Visual Studio Code (VSCode) is a powerful, open-source code editor available for Windows, Mac, and Linux. Install it using the following command:
@@ -48,11 +48,18 @@ Or download it directly from the [Visual Studio Code website](https://code.visua
 
 **For complete VS Code setup instructions, see [Module 2: Code Editor Setup](../modules/code-editor-setup.md).**
 
-1. **Open VSCode:** Launch Visual Studio Code.
-2. **Open Terminal:** Press `Ctrl + ` to open the terminal.
-3. **Open Command Palette:** Press `Ctrl + Shift + P` to open the command palette.
-4. **Select Default Shell:** Type `Select Default Shell` and choose `WSL Bash` from the options.
-5. **Open New Terminal:** Click on the `+` icon in the terminal window to open a new WSL Bash terminal.
+1. **Install the WSL extension:** In VS Code, press `Ctrl + Shift + X`, search for **"WSL"** (by Microsoft), and click Install.
+2. **Open Ubuntu:** Launch Ubuntu from the Start menu.
+3. **Go to your project:** `cd` into your project folder inside your Ubuntu home folder:
+   ```bash
+   mkdir -p ~/code/my-project
+   cd ~/code/my-project
+   ```
+4. **Open VS Code from Ubuntu:** Run:
+   ```bash
+   code .
+   ```
+5. **Confirm the connection:** Look at the bottom-left corner of VS Code. It should say **"WSL: Ubuntu"**. The integrated terminal (`` Ctrl + ` ``) is now an Ubuntu terminal.
 
 ### Install VetsWhoCode Extensions
 
@@ -88,19 +95,21 @@ Additionally, you can install CheatSheet for Windows alternatives to see all the
 
 ### Additional Tools
 
-Consider installing the following tools to further enhance your development environment:
+Install these **inside Ubuntu (WSL)**, not on the Windows side. Run every command below in your Ubuntu terminal:
 
-- **Node.js and npm:** JavaScript runtime and package manager:
+- **Node.js and npm:** JavaScript runtime and package manager, installed with nvm:
   ```bash
-  winget install OpenJS.NodeJS
+  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+  # close and reopen your Ubuntu terminal
+  nvm install --lts
   ```
 - **Git:** Version control system:
   ```bash
-  winget install Git.Git
+  sudo apt install -y git
   ```
 - **Zsh and Oh My Zsh:** Improved shell and its configuration framework (optional for advanced users):
   ```bash
-  winget install Zsh
+  sudo apt install -y zsh
   sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
   ```
 
@@ -111,7 +120,5 @@ To make your code editor more comfortable, check out these two podcast episodes 
 - [VS Code Round Two](https://syntax.fm/show/048/vs-code-round-two)
 
 The podcasts are great, but you can also read the show notes for a quick summary.
-
-## Conclusion
 
 With these tools and tips, you're well on your way to creating a powerful and efficient Windows development environment. Good luck, and happy coding! 🚀

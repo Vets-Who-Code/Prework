@@ -6,7 +6,7 @@
 
 <h1 align="center">Module 1: Command Line Fundamentals</h1>
 
-**⏱ Estimated Time: 8-10 hours**
+**⏱ Estimated Time: 5-7 hours**
 
 ---
 

@@ -6,7 +6,7 @@
 
 <h1 align="center">Module 3: Git & GitHub</h1>
 
-**⏱ Estimated Time: 8-10 hours**
+**⏱ Estimated Time: 6-8 hours**
 
 ---
 

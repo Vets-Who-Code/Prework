@@ -6,7 +6,7 @@
 
 <h1 align="center">Module 5: JavaScript — Unlocking Web Interactivity</h1>
 
-**⏱ Estimated Time: 10-14 hours**
+**⏱ Estimated Time: 12-14 hours**
 
 ---
 
@@ -1091,14 +1091,14 @@ localStorage.setItem("user", JSON.stringify(user));
 
 // Get object
 let stored = localStorage.getItem("user");
-let user = JSON.parse(stored);
+let savedUser = JSON.parse(stored);
 
 // Save array
 let tasks = ["Learn JS", "Build portfolio", "Apply for jobs"];
 localStorage.setItem("tasks", JSON.stringify(tasks));
 
 // Get array
-let tasks = JSON.parse(localStorage.getItem("tasks"));
+let savedTasks = JSON.parse(localStorage.getItem("tasks"));
 ```
 
 ### Practical Pattern
@@ -1119,6 +1119,96 @@ function loadFromStorage(key, defaultValue = null) {
 saveToStorage("settings", { theme: "dark", fontSize: 16 });
 let settings = loadFromStorage("settings", { theme: "light", fontSize: 14 });
 ```
+
+---
+
+## Loading Data with fetch
+
+So far your data has lived inside your JavaScript file. Real sites often keep data in a separate file and load it. That's what `fetch` does.
+
+### What JSON Is
+
+JSON (JavaScript Object Notation) is a text format for data. It looks like JavaScript objects and arrays, with stricter rules:
+
+- Keys must be in **double quotes**
+- Strings must use **double quotes** (no single quotes)
+- No trailing commas, no comments, no functions
+
+```json
+[
+  { "id": 1, "title": "Portfolio", "tags": ["HTML", "CSS"] },
+  { "id": 2, "title": "Calculator", "tags": ["JavaScript"] }
+]
+```
+
+You already used the two JSON helpers in [Local Storage](#storing-objects-and-arrays):
+
+- `JSON.stringify(value)` turns JavaScript data into a JSON string
+- `JSON.parse(text)` turns a JSON string back into JavaScript data
+
+### async / await with fetch
+
+Loading a file takes time, so `fetch` doesn't hand back the data right away. Mark your function `async`, then use `await` to wait for each step.
+
+Create `data/projects.json` with the JSON above. Then in your HTML:
+
+```html
+<p id="status"></p>
+<ul id="project-list"></ul>
+<script src="script.js"></script>
+```
+
+And in `script.js`:
+
+```javascript
+async function loadProjects() {
+  let status = document.querySelector("#status");
+  let list = document.querySelector("#project-list");
+
+  status.textContent = "Loading projects...";
+
+  try {
+    let response = await fetch("data/projects.json");
+
+    if (!response.ok) {
+      throw new Error(`Request failed: ${response.status}`);
+    }
+
+    let projects = await response.json();  // parses the JSON for you
+
+    list.innerHTML = "";
+    projects.forEach(project => {
+      let item = document.createElement("li");
+      item.textContent = `${project.title} (${project.tags.join(", ")})`;
+      list.appendChild(item);
+    });
+
+    status.textContent = "";
+  } catch (error) {
+    console.error(error);
+    status.textContent = "Sorry, projects couldn't be loaded. Please try again later.";
+  }
+}
+
+loadProjects();
+```
+
+What's happening:
+
+1. **Loading message** — shown before the request starts
+2. **`await fetch(...)`** — waits for the file to arrive
+3. **`response.ok`** — `fetch` does *not* fail on a 404, so check this yourself and `throw` if it's false
+4. **`await response.json()`** — reads the body and parses it (same job as `JSON.parse`)
+5. **`try/catch`** — anything that goes wrong (missing file, bad JSON, no network) lands in `catch`, where you show an error message
+
+Test the error path: rename the file to `projects-typo.json` and reload. You should see your error message, not a blank page.
+
+### ⚠️ fetch Needs a Server
+
+If you double-click `index.html`, the address bar shows `file://...`, and `fetch` will fail. Browsers block it for security.
+
+- **Locally:** right-click `index.html` in VS Code and choose **Open with Live Server**
+- **Online:** GitHub Pages serves your files over `https://`, so `fetch` works there
 
 ---
 
@@ -1263,6 +1353,7 @@ You should be able to do all of the following without looking anything up:
 - [ ] Handle events
 - [ ] Create and remove elements dynamically
 - [ ] Use localStorage
+- [ ] Load a JSON file with `fetch`
 
 ---
 

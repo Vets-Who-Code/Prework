@@ -1,12 +1,12 @@
 # Module 2: Code Editor Setup
 
-**⏱ Estimated Time: 4-6 hours**
+**⏱ Estimated Time: 2-3 hours**
 
 ---
 
 ## Why This Matters
 
-You're going to spend hundreds of hours in your code editor. The difference between a well-configured editor and a default install is massive — we're talking hours saved over the course of the program.
+You're going to spend hundreds of hours in your code editor. The difference between a well-configured editor and a default install is massive — we're talking hours saved over the course of the accelerator.
 
 VS Code is free, powerful, and industry-standard. Let's set it up right.
 
@@ -704,4 +704,4 @@ Take a screenshot of your VS Code showing:
 
 ---
 
-**Next up:** [Module 3: Git & GitHub](03-git.md)
+**Next up:** [Module 3: Git & GitHub](git-and-github.md)

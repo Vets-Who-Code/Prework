@@ -6,7 +6,7 @@
 
 <h1 align="center">Prework Modules</h1>
 
-Welcome to the Vets Who Code Prework curriculum! Complete these modules in order to prepare for the Hashflag Stack program.
+Welcome to the Vets Who Code Prework curriculum! Complete these modules in order to prepare for the Hashflag Stack accelerator.
 
 ---
 
@@ -16,14 +16,14 @@ Follow these modules in order:
 
 ### Module 0 (Optional): Browser Development Tools
 **File:** `browser-dev-tools.md`
-**Time:** 1-2 hours
+**Time:** Reference — use as needed
 Set up Chrome or Edge with developer tools.
 
 ---
 
 ### Module 1: Command Line Fundamentals
 **File:** `command-line-fundamentals.md`
-**Time:** 8-10 hours
+**Time:** 5-7 hours
 Master the terminal and shell commands.
 
 **Gate:** Screenshot of your custom aliases and shell config
@@ -32,7 +32,7 @@ Master the terminal and shell commands.
 
 ### Module 2: Code Editor Setup
 **File:** `code-editor-setup.md`
-**Time:** 4-6 hours
+**Time:** 2-3 hours
 Configure VS Code with VetsWhoCode extensions.
 
 **Gate:** Screenshot of VS Code with VWC Extension Pack installed
@@ -41,7 +41,7 @@ Configure VS Code with VetsWhoCode extensions.
 
 ### Module 3: Git & GitHub
 **File:** `git-and-github.md`
-**Time:** 8-10 hours
+**Time:** 6-8 hours
 Learn version control and GitHub workflows.
 
 **Gate:** Screenshot of GitHub profile with commits
@@ -50,7 +50,7 @@ Learn version control and GitHub workflows.
 
 ### Module 4: HTML & CSS Fundamentals
 **File:** `html-css-fundamentals.md`
-**Time:** 12-16 hours
+**Time:** 9-11 hours
 Build responsive web layouts from scratch.
 
 **Gate:** Three practice layouts (hero, grid, form)
@@ -59,8 +59,8 @@ Build responsive web layouts from scratch.
 
 ### Module 5: JavaScript Fundamentals
 **File:** `javascript-fundamentals.md`
-**Time:** 10-14 hours
-Program interactive web features.
+**Time:** 12-14 hours
+Build interactive web features and load JSON data with `fetch`.
 
 **Gate:** 30+ coding challenge solutions
 
@@ -68,16 +68,16 @@ Program interactive web features.
 
 ### Module 6: Capstone — Your Portfolio
 **File:** `capstone.md`
-**Time:** 8-12 hours
+**Time:** 6-7 hours
 Build your personal portfolio website.
 
-**Gate:** Deployed portfolio on GitHub Pages
+**Gate:** Deployed portfolio on GitHub Pages, submitted via the [application form](https://vetswhocode.io/apply)
 
 ---
 
 ## ⏱ Total Time Commitment
 
-**50-68 hours** of focused learning and building.
+**40-50 hours** of focused learning and building.
 
 ---
 
@@ -92,7 +92,6 @@ All modules are in this directory:
 - `html-css-fundamentals.md` - Module 4
 - `javascript-fundamentals.md` - Module 5
 - `capstone.md` - Module 6
-- `MODULE-CONSOLIDATION-SUMMARY.md` - Documentation of module updates
 
 ---
 
@@ -105,6 +104,7 @@ You're ready for the Hashflag Stack when you can:
 - [ ] Create repositories, commit code, and deploy to GitHub
 - [ ] Build responsive layouts with semantic HTML and CSS
 - [ ] Write JavaScript to manipulate the DOM and handle events
+- [ ] Load a JSON file with `fetch`
 - [ ] Deploy a complete portfolio website showcasing your work
 
 ---
@@ -116,13 +116,13 @@ Your capstone portfolio must include:
 ### Required Pages
 1. **Home** - Hero section with navigation
 2. **About** - Your story + setup screenshots (gates from Modules 1-3)
-3. **Projects** - Dynamically rendered from JavaScript
+3. **Projects** - Loaded from `data/projects.json` with `fetch` and rendered with JavaScript
 4. **Contact** - Working form with validation
 
-### Required Features (Choose 5 of 8)
+### Required Features (Choose 3 of 8)
 1. Theme persistence (localStorage)
 2. Responsive navigation with JavaScript
-3. Dynamic content rendering
+3. Dynamic content rendering (a second section, beyond Projects)
 4. Content filtering or sorting
 5. Form validation
 6. Animated text or elements
@@ -143,13 +143,11 @@ Your capstone portfolio must include:
 
 **Found an issue?** Create an issue on the GitHub repo
 
-**Module updates?** See `MODULE-CONSOLIDATION-SUMMARY.md`
-
 ---
 
-## 📅 December 2024 Update
+## 📅 Changelog
 
-These modules were recently consolidated from two separate module sets. All content has been preserved and enhanced. See `MODULE-CONSOLIDATION-SUMMARY.md` for details.
+**v3:** Trimmed to 40-50 hours, added `fetch` + JSON to Module 5, capstone Projects page now loads `data/projects.json`, 3 of 8 features required.
 
 ---
 

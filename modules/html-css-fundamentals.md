@@ -6,7 +6,7 @@
 
 <h1 align="center">Module 4: HTML & CSS — The Dynamic Duo of Web Creation</h1>
 
-**⏱ Estimated Time: 12-16 hours**
+**⏱ Estimated Time: 9-11 hours**
 
 ---
 

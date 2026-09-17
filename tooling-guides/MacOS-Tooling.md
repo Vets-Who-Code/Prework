@@ -1,5 +1,3 @@
-Certainly! Here is the improved and detailed version of the "MacOS Tooling" section without references to freeCodeCamp:
-
 <div align="center">
   <a href="https://vetswhocode.io">
     <img src="../img/vwc-logo.png" alt="Vets Who Code" width="400px" />
@@ -110,7 +108,5 @@ Consider installing the following tools to further enhance your development envi
   brew install zsh
   sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
   ```
-
-## Conclusion
 
 With these tools and tips, you're well on your way to creating a powerful and efficient macOS development environment. Good luck, Mac users, and happy coding! 🚀

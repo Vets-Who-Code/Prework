@@ -1,6 +1,6 @@
 # Module 6: Capstone — Your Portfolio
 
-**⏱ Estimated Time: 8-12 hours**
+**⏱ Estimated Time: 6-7 hours**
 
 ---
 
@@ -53,12 +53,28 @@ These screenshots prove you completed the earlier modules.
 Showcase your work.
 
 **Must include:**
-- **Projects stored as data** in a JavaScript array of objects
-- **Cards rendered dynamically** to the DOM using JavaScript (not hardcoded HTML)
+- **Projects stored as data** in a hand-written `data/projects.json` file
+- **Data loaded with `fetch`** (see [Loading Data with fetch](javascript-fundamentals.md#loading-data-with-fetch))
+- **Cards rendered dynamically** to the DOM by a JavaScript function (not hardcoded HTML)
+- A **loading message** while the data loads and an **error message** if it fails
 - At minimum, your practice layouts from Module 4
 - Links to live demos and GitHub repos
 
-**This section must be built with JavaScript.** When we look at your code, we should see an array of project objects and a function that renders them.
+**This section must be built with JavaScript.** When we look at your code, we should see `data/projects.json`, a `fetch` call, and a function that renders the cards. Adding a project to the JSON file must add a card to the page with no HTML edits.
+
+Example `data/projects.json`:
+```json
+[
+  {
+    "id": 1,
+    "title": "Project Name",
+    "description": "What it does",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "liveUrl": "https://...",
+    "repoUrl": "https://github.com/..."
+  }
+]
+```
 
 ### 4. Contact
 
@@ -76,7 +92,7 @@ How people can reach you.
 
 Your portfolio must include interactive features that demonstrate your JavaScript skills.
 
-**Implement at least 5 of the following 8 features.**
+**Implement at least 3 of the following 8 features.**
 
 Each feature description tells you what skill it demonstrates. The specific implementation is your creative decision.
 
@@ -117,26 +133,15 @@ Each feature description tells you what skill it demonstrates. The specific impl
 **Demonstrates:** Arrays of objects, iteration methods, template literals, DOM creation
 
 **Requirements:**
-- Content stored as structured data in JavaScript (not hardcoded HTML)
+- Your Projects page already uses this pattern. To earn this feature, apply it to a **second section**
+- Content stored as structured data (a JSON file or a JavaScript array), not hardcoded HTML
 - Data rendered to the page using JavaScript
-- Adding new items to the data array automatically updates the page
+- Adding a new item to the data automatically updates the page
 
-**This is required for your Projects section.** You may also use it for skills, testimonials, timeline, etc.
-
-Example data structure:
-```javascript
-const projects = [
-  {
-    id: 1,
-    title: "Project Name",
-    description: "What it does",
-    technologies: ["HTML", "CSS", "JavaScript"],
-    liveUrl: "https://...",
-    repoUrl: "https://github.com/..."
-  },
-  // more projects...
-];
-```
+**Example implementations:**
+- Skills list
+- Military service timeline
+- Certifications
 
 ---
 
@@ -244,6 +249,8 @@ portfolio/
 │   └── style.css
 ├── js/
 │   └── script.js
+├── data/
+│   └── projects.json
 └── images/
     ├── screenshot-terminal.png
     ├── screenshot-vscode.png
@@ -384,10 +391,10 @@ Before submitting, verify:
 ### Pages
 - [ ] Home page exists with hero and navigation
 - [ ] About page tells your story and includes setup screenshots
-- [ ] Projects page renders projects dynamically from JavaScript
+- [ ] Projects page loads `data/projects.json` with `fetch` and renders the cards
 - [ ] Contact page has working form with validation
 
-### Features (at least 5)
+### Features (at least 3)
 - [ ] Theme persistence
 - [ ] Responsive navigation with JavaScript
 - [ ] Dynamic content rendering
@@ -450,6 +457,8 @@ The interview is a conversation about your work, not a test designed to trip you
 - "Walk me through how this function works"
 - "Why did you choose this approach?"
 - "What happens when a user clicks this?"
+- "What happens when the Projects page loads?"
+- "What happens if `projects.json` fails to load?"
 - "How would you add [feature] to this?"
 - "What was the hardest part of building this?"
 - "If you had more time, what would you improve?"
@@ -471,7 +480,7 @@ The interview is a conversation about your work, not a test designed to trip you
 If approved:
 
 - Review your pre-work — Everything builds on this foundation
-- Rest — The program is intense
+- Rest — The accelerator is intense
 - Set up your schedule — 20-24 hours per week for 17 weeks
 - Tell your family — They need to know you'll be busy
 - Show up ready to work
@@ -480,22 +489,17 @@ If approved:
 
 ## Submission
 
-When your portfolio is complete and deployed:
-
-**Email:** hello@vetswhocode.io
-
-**Subject:** Pre-Work Submission: [Your Name]
+When your portfolio is complete and deployed, apply through the **[application form at vetswhocode.io](https://vetswhocode.io/apply)**.
 
 **Include:**
 - Your live portfolio URL
 - Your GitHub repository URL
-- Brief note about which features you implemented
 
 ---
 
 ## Final Thoughts
 
-Completing this pre-work represents a significant accomplishment. You've put in 40-60 hours of focused learning—more preparation than many programs require.
+Completing this pre-work represents a significant accomplishment. You've put in 40-50 hours of focused learning—more preparation than many programs require.
 
 The Hashflag Stack will be challenging. The pace is faster, and the material goes deeper. But you've already demonstrated the discipline and capability to handle it.
 

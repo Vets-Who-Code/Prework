@@ -6,7 +6,7 @@
 
 <h1 align="center">Supplementary: Browser Development Tools</h1>
 
-**⏱ Estimated Time: 1-2 hours**
+**⏱ Reference — use as needed (not counted in total)**
 
 ---
 
