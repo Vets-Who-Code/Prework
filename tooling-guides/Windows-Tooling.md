@@ -28,13 +28,13 @@ WSL allows you to run a Linux distribution within Windows, providing access to t
 
 4. **Update and Upgrade:** Run the following commands to update and upgrade your distribution:
    ```bash
-   sudo apt update
-   sudo apt upgrade
+   sudo apt update && sudo apt upgrade
+   
    ```
 
 > **Keep all your work inside Ubuntu.** Store projects in your Ubuntu home folder (`~`, e.g. `~/code`), not in `C:\Users\...` (`/mnt/c/...`). Files on the Windows side are slow to work with from Linux and can cause permission and line-ending problems.
 
-### Install Visual Studio Code
+### Install Visual Studio Code in windows
 
 Visual Studio Code (VSCode) is a powerful, open-source code editor available for Windows, Mac, and Linux. Install it using the following command:
 
@@ -89,7 +89,7 @@ Also install the **Vets Who Code HashFlag Extension** to proudly display your af
 
 Improve your productivity by mastering keyboard shortcuts. Here are some great resources for Windows shortcuts:
 
-- [Useful Keyboard Shortcuts](https://www.reddit.com/r/AskReddit/comments/633ok7/what_are_some_useful_keyboard_shortcuts_that/)
+- [Useful Keyboard Shortcuts](https://support.microsoft.com/en-us/accessibility/windows/keyboard-shortcuts-in-windows)
 
 Additionally, you can install CheatSheet for Windows alternatives to see all the shortcuts available in each application.
 
@@ -101,6 +101,8 @@ Install these **inside Ubuntu (WSL)**, not on the Windows side. Run every comman
   ```bash
   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
   # close and reopen your Ubuntu terminal
+  ```
+  ```bash
   nvm install --lts
   ```
 - **Git:** Version control system:
